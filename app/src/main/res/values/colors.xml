@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< 2332d8f1b003ae619139eb825563d0e4fc546319
     <color name="colorPrimary">#3f51b5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="backgroundApproved">#37bf4e</color>
     <color name="backgroundRepproved">#c42525</color>
     <color name="backgroundMedium">#e4d618</color>
+=======
+    <color name="colorPrimary">#48b7af</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+>>>>>>> Initial commit
 </resources>

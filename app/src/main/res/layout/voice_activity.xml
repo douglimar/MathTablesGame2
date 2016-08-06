@@ -1,64 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< 2332d8f1b003ae619139eb825563d0e4fc546319
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:ads="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/activity_main"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:paddingBottom="@dimen/activity_vertical_margin"
-        android:paddingLeft="@dimen/activity_horizontal_margin"
-        android:paddingRight="@dimen/activity_horizontal_margin"
-        android:paddingTop="@dimen/activity_vertical_margin"
-        android:orientation="vertical"
-        android:background="@color/cardview_light_background"
-        android:gravity="center_vertical">
-
-    <TextView
-        android:text="@string/selecione_abaixo_qual_tipo_de_jogo_deseja_iniciar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView2"
-        android:gravity="center_horizontal" />
-
-    <Button
-        android:id="@+id/btnCountdown"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/contagem_regressiva_n_nvoc_tem_60_seg_para_resolver_o_maior_n_mero_de_quest_es"
-        android:drawableLeft="@drawable/countdown2"
-        android:drawableStart="@drawable/countdown2"
-        android:textAllCaps="false"
-        android:background="@android:color/holo_orange_light"
-        android:padding="10dp"
-        android:layout_marginTop="5dp"
-        android:layout_marginBottom="5dp" />
-
-
-    <Button
-        android:id="@+id/btnFreeTime"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/tempo_livre_n_nsem_controle_de_tempo_bom_para_estudar_enquanto_acumula_estrelas"
-        android:drawableLeft="@drawable/freetime2"
-        android:drawableStart="@drawable/freetime2"
-        android:textAllCaps="false"
-        android:background="@color/cast_intro_overlay_button_background_color"
-        android:padding="10dp"
-        android:layout_marginBottom="5dp"
-        android:layout_marginTop="5dp"
-        />
-
-
-    <com.google.android.gms.ads.AdView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_ad_unit_id"
-        android:id="@+id/adViewMainActivity"/>
-
-</LinearLayout>
-=======
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -161,6 +101,18 @@
 
         </RelativeLayout>
 
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/editText"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#c21111"
+            android:textSize="35dp"
+            android:gravity="center_horizontal"
+            android:textStyle="bold" />
+
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"
@@ -209,18 +161,6 @@
 
         </LinearLayout>
 
-        <EditText
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:inputType="number"
-            android:ems="10"
-            android:id="@+id/editText"
-            android:layout_gravity="center_horizontal"
-            android:textColor="#c21111"
-            android:textSize="35dp"
-            android:gravity="center_horizontal"
-            android:textStyle="bold" />
-
         <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -231,6 +171,13 @@
             android:background="@color/switch_thumb_disabled_material_dark"
             android:textColor="#ffffff" />
 
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/microphone72x72" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -239,20 +186,18 @@
             android:id="@+id/tvResult"
             android:layout_gravity="center_horizontal" />
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/tvCountDown"
+            android:textColor="#db1111"
+            android:textSize="200dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="GO"
+            android:textStyle="bold"
+            android:background="#ffffff" />
+
     </LinearLayout>
 
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:id="@+id/tvCountDown"
-        android:textColor="#db1111"
-        android:textSize="200dp"
-        android:gravity="center_vertical|center_horizontal"
-        android:text="GO"
-        android:layout_gravity="center_horizontal"
-        android:textStyle="bold"
-        android:background="#ffffff" />
-
 </RelativeLayout>
->>>>>>> Initial commit
