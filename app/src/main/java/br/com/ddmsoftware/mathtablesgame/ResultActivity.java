@@ -48,7 +48,7 @@ public class ResultActivity extends AppCompatActivity {
         tvResultPercAcerto.setText(sPercAcerto);
         fPercentual = Float.parseFloat(sResultados[2]);
 
-        Toast.makeText(ResultActivity.this, sResultados[0] + ";" + sResultados[1] + ";" + sResultados[2], Toast.LENGTH_SHORT).show();
+        //Toast.makeText(ResultActivity.this, sResultados[0] + ";" + sResultados[1] + ";" + sResultados[2], Toast.LENGTH_SHORT).show();
 
         if( fPercentual >= 80)
             tvResult.setText(R.string.final_message80Perc);

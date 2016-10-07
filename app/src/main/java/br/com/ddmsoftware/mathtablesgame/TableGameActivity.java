@@ -193,7 +193,7 @@ public class TableGameActivity extends AppCompatActivity {
                     } else {
                         //errorSound.start();
                         iCountErros++;
-                        Toast.makeText(getBaseContext(), "Resposta INCORRETA... BURRO!", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getBaseContext(), "Resposta INCORRETA!", Toast.LENGTH_SHORT).show();
 
                     }
 
@@ -235,7 +235,7 @@ public class TableGameActivity extends AppCompatActivity {
     protected void onDestroy(){
         super.onDestroy();
 
-        Toast.makeText(getApplicationContext(), "Passei no OnDestroy", Toast.LENGTH_LONG).show();
+        //Toast.makeText(getApplicationContext(), "Passei no OnDestroy", Toast.LENGTH_LONG).show();
 
         tableGame.stopCountDown();
     }
@@ -249,7 +249,7 @@ public class TableGameActivity extends AppCompatActivity {
             sResultado = "";
             bRestartApp = false;
 
-            Toast.makeText(getApplicationContext(), "Passei no ON_RESUME", Toast.LENGTH_LONG).show();
+            //Toast.makeText(getApplicationContext(), "Passei no ON_RESUME", Toast.LENGTH_LONG).show();
 
             btnVoltar.setVisibility(View.VISIBLE);
             btnStartNewGame.setVisibility(View.VISIBLE);
@@ -266,7 +266,7 @@ public class TableGameActivity extends AppCompatActivity {
 
         bRestartApp = !sResultado.equals("");
 
-        Toast.makeText(getApplicationContext(), "Passei no ON_PAUSE: " + sResultado, Toast.LENGTH_LONG).show();
+        //.makeText(getApplicationContext(), "Passei no ON_PAUSE: " + sResultado, Toast.LENGTH_LONG).show();
 
     }
 
@@ -307,7 +307,7 @@ public class TableGameActivity extends AppCompatActivity {
 
                     STOP_COUNTDOWN = false;
 
-                    if ( (i<= 0) || (STOP_COUNTDOWN)) {
+                    if (i<= 0) {
                         timer.cancel();
 
                         i = 0 ;
@@ -326,11 +326,11 @@ public class TableGameActivity extends AppCompatActivity {
 
                                 //Thread.currentThread().interrupt();
 
-                                Toast.makeText(TableGameActivity.this, "Total de Acertos: " + iCountAcertos + "\n + Total de Erros: " + iCountErros, Toast.LENGTH_SHORT).show();
+                                //Toast.makeText(TableGameActivity.this, "Total de Acertos: " + iCountAcertos + "\n + Total de Erros: " + iCountErros, Toast.LENGTH_SHORT).show();
 
                                 sResultado = iCountAcertos +";" + iCountErros + ";" + fPercAcertos;
 
-                                Toast.makeText(getApplicationContext(), sResultado, Toast.LENGTH_LONG).show();
+                                //Toast.makeText(getApplicationContext(), sResultado, Toast.LENGTH_LONG).show();
 
                                 bRestartApp = true;
 
@@ -493,7 +493,7 @@ public class TableGameActivity extends AppCompatActivity {
         private boolean validateResult(int pCalculatedValue, int pTypedValue) {
             boolean ok;
             //okSound.start();
-//zerrorSound.start();
+            //zerrorSound.start();
             ok = pCalculatedValue == pTypedValue;
             return ok;
         }

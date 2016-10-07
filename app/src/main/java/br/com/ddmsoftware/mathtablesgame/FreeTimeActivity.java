@@ -40,12 +40,14 @@ public class FreeTimeActivity extends AppCompatActivity {
     float fPercAcertos = 0;
     int iCountAcertos = 0;
     int iCountErros = 0;
+    int iCountAcertosFreeTime = 0;
 
     float iOldFistNumber = 0;
     float iOldSecondNumber = 0;
 
     boolean STOP_COUNTDOWN = false;
     boolean bRestartApp = true;
+    boolean bRestartStars = false;
 
     ImageView imgStar1,imgStar2,imgStar3,imgStar4,imgStar5;
 
@@ -193,12 +195,15 @@ public class FreeTimeActivity extends AppCompatActivity {
                     if (tableGame.validateResult(iValorCalculado, iValorDigitado)) {
                         //okSound.start();
                         iCountAcertos++;
+                        iCountAcertosFreeTime++;
 
                         Toast.makeText(getBaseContext(), "Resposta Correta", Toast.LENGTH_SHORT).show();
                     } else {
                         //errorSound.start();
                         iCountErros++;
-                        Toast.makeText(getBaseContext(), "Resposta INCORRETA... BURRO!", Toast.LENGTH_SHORT).show();
+                        iCountAcertosFreeTime = 0;
+                        bRestartStars = true;
+                        Toast.makeText(getBaseContext(), "Resposta INCORRETA!!!", Toast.LENGTH_SHORT).show();
 
                     }
 
@@ -208,7 +213,7 @@ public class FreeTimeActivity extends AppCompatActivity {
                     tvGridResult_TotErros.setText(String.valueOf(iCountErros));
 
                     // Rank Stars according to the Results
-                    tableGame.rankResult(iCountAcertos, iCountErros);
+                    tableGame.rankResult(iCountAcertosFreeTime, bRestartStars);
 
                     tableGame.generateNewCalc();
 
@@ -243,7 +248,7 @@ public class FreeTimeActivity extends AppCompatActivity {
     protected void onDestroy(){
         super.onDestroy();
 
-        Toast.makeText(getApplicationContext(), "Passei no OnDestroy", Toast.LENGTH_LONG).show();
+        //Toast.makeText(getApplicationContext(), "Passei no OnDestroy", Toast.LENGTH_LONG).show();
 
         tableGame.stopCountDown();
     }
@@ -257,7 +262,7 @@ public class FreeTimeActivity extends AppCompatActivity {
             sResultado = "";
             bRestartApp = false;
 
-            Toast.makeText(getApplicationContext(), "Passei no ON_RESUME", Toast.LENGTH_LONG).show();
+            //Toast.makeText(getApplicationContext(), "Passei no ON_RESUME", Toast.LENGTH_LONG).show();
 
             btnVoltar.setVisibility(View.VISIBLE);
             btnStartNewGame.setVisibility(View.VISIBLE);
@@ -274,7 +279,7 @@ public class FreeTimeActivity extends AppCompatActivity {
 
         bRestartApp = !sResultado.equals("");
 
-        Toast.makeText(getApplicationContext(), "Passei no ON_PAUSE: " + sResultado, Toast.LENGTH_LONG).show();
+        //Toast.makeText(getApplicationContext(), "Passei no ON_PAUSE: " + sResultado, Toast.LENGTH_LONG).show();
 
     }
 
@@ -297,13 +302,11 @@ public class FreeTimeActivity extends AppCompatActivity {
 
             tvGridResult_TotAcertos.setText("");
             tvGridResult_TotErros.setText("");
-            //tvCountDown.setText("");
-            //textView.setText("");
         }
 
-        private void rankResult(int pTotalAcertos, int pTotalErros) {
+        private void rankResult(int pTotalAcertos, boolean pRestart_Stars) {
 
-            if (pTotalErros <=0) {
+            if (!pRestart_Stars) {
                 switch (pTotalAcertos) {
                     case 10:
                         imgStar1.setImageResource(R.drawable.star32yellow);
@@ -338,6 +341,7 @@ public class FreeTimeActivity extends AppCompatActivity {
                     }
 
                 }  else{
+                    bRestartStars = false;
                     imgStar1.setImageResource(R.drawable.star32gray);
                     imgStar2.setImageResource(R.drawable.star32gray);
                     imgStar3.setImageResource(R.drawable.star32gray);
@@ -361,7 +365,7 @@ public class FreeTimeActivity extends AppCompatActivity {
 
                     STOP_COUNTDOWN = false;
 
-                    if ( (i<= 0) || (STOP_COUNTDOWN)) {
+                    if (i<= 0) {
                         timer.cancel();
 
                         i = 0 ;
@@ -380,11 +384,11 @@ public class FreeTimeActivity extends AppCompatActivity {
 
                                 //Thread.currentThread().interrupt();
 
-                                Toast.makeText(FreeTimeActivity.this, "Total de Acertos: " + iCountAcertos + "\n + Total de Erros: " + iCountErros, Toast.LENGTH_SHORT).show();
+                                //Toast.makeText(FreeTimeActivity.this, "Total de Acertos: " + iCountAcertos + "\n + Total de Erros: " + iCountErros, Toast.LENGTH_SHORT).show();
 
                                 sResultado = iCountAcertos +";" + iCountErros + ";" + fPercAcertos;
 
-                                Toast.makeText(getApplicationContext(), sResultado, Toast.LENGTH_LONG).show();
+                                //Toast.makeText(getApplicationContext(), sResultado, Toast.LENGTH_LONG).show();
 
                                 bRestartApp = true;
 
