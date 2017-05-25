@@ -32,5 +32,7 @@
     <string name="selecione_abaixo_qual_tipo_de_jogo_deseja_iniciar">Selecione abaixo qual tipo de Jogo deseja iniciar</string>
     <string name="hint">Já estudou hoje? O Jogo da tabuada irá te ajudar a melhorar suas habilidades matemáticas.</string>
     <string name="alert">DIGITE UM NÚMERO ANTES DE CONTINUAR.</string>
+    <string name="rightAnswer">Resposta Correta</string>
+    <string name="wrongAnswer">Resposta incorreta</string>
 
 </resources>

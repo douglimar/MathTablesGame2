@@ -189,11 +189,11 @@ public class TableGameActivity extends AppCompatActivity {
                         //okSound.start();
                         iCountAcertos++;
 
-                        Toast.makeText(getBaseContext(), "Resposta Correta", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getBaseContext(), getResources().getString(R.string.rightAnswer), Toast.LENGTH_SHORT).show();
                     } else {
                         //errorSound.start();
                         iCountErros++;
-                        Toast.makeText(getBaseContext(), "Resposta INCORRETA!", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getBaseContext(), getResources().getString(R.string.wrongAnswer), Toast.LENGTH_SHORT).show();
 
                     }
 

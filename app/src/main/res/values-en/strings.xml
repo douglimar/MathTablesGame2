@@ -19,4 +19,6 @@
     <string name="tempo_livre_n_nsem_controle_de_tempo_bom_para_estudar_enquanto_acumula_estrelas">"FREE TIME\n\n Without time. Good to study and improve your math skills. "</string>
     <string name="selecione_abaixo_qual_tipo_de_jogo_deseja_iniciar">\"Select the Game Mode below: \"</string>
     <string name="alert">TYPE A NUMBER BEFORE CONTINUE.</string>
+    <string name="rightAnswer">Right Answer</string>
+    <string name="wrongAnswer">Wrong Answer</string>
 </resources>
