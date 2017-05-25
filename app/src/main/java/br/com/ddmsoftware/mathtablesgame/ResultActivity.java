@@ -6,11 +6,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class ResultActivity extends AppCompatActivity {
-    private String message;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,6 +19,8 @@ public class ResultActivity extends AppCompatActivity {
         Intent intent = getIntent();
 
         Button btnVoltar = (Button)findViewById(R.id.btnVoltar) ;
+
+        LinearLayout linearResult = (LinearLayout)findViewById(R.id.linearResult);
 
         TextView tvResultAcertos =  (TextView)findViewById(R.id.tvTotalAcertos);
         TextView tvResultErros =  (TextView)findViewById(R.id.tvTotalErros);
@@ -38,6 +39,8 @@ public class ResultActivity extends AppCompatActivity {
             }
         });
 
+        String message;
+
         message = intent.getStringExtra(TableGameActivity.EXTRA_MESSAGE);
 
         String[] sResultados = message.split(";");
@@ -50,14 +53,19 @@ public class ResultActivity extends AppCompatActivity {
 
         //Toast.makeText(ResultActivity.this, sResultados[0] + ";" + sResultados[1] + ";" + sResultados[2], Toast.LENGTH_SHORT).show();
 
-        if( fPercentual >= 80)
+        if( fPercentual >= 80) {
             tvResult.setText(R.string.final_message80Perc);
+            //linearResult.setBackgroundColor(getResources().getColor(R.color.backgroundApproved));
+        }
         else
-        if( fPercentual >= 50)
+        if( fPercentual >= 50) {
             tvResult.setText(R.string.final_message50Perc);
+            //linearResult.setBackgroundColor(getResources().getColor(R.color.backgroundMedium));
+        }
         else
         if( fPercentual < 50) {
             tvResult.setText(R.string.final_messageLess50Perc);
+            //linearResult.setBackgroundColor(getResources().getColor(R.color.backgroundRepproved));
             imgResultOK.setImageResource(R.drawable.iconnok);
         }
 

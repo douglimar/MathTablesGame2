@@ -2,6 +2,7 @@ package br.com.ddmsoftware.mathtablesgame;
 
 import android.content.Intent;
 import android.media.MediaPlayer;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -13,7 +14,12 @@ import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.appindexing.Action;
+import com.google.android.gms.appindexing.AppIndex;
+import com.google.android.gms.appindexing.Thing;
+import com.google.android.gms.common.api.GoogleApiClient;
 
+import java.util.Locale;
 import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
@@ -49,7 +55,7 @@ public class FreeTimeActivity extends AppCompatActivity {
     boolean bRestartApp = true;
     boolean bRestartStars = false;
 
-    ImageView imgStar1,imgStar2,imgStar3,imgStar4,imgStar5;
+    ImageView imgStar1, imgStar2, imgStar3, imgStar4, imgStar5;
 
     LinearLayout linearMainCountainer;
     TextView tvNumber1;
@@ -61,6 +67,11 @@ public class FreeTimeActivity extends AppCompatActivity {
 
     TextView tvGridResult_TotAcertos;
     TextView tvGridResult_TotErros;
+    /**
+     * ATTENTION: This was auto-generated to implement the App Indexing API.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     */
+    private GoogleApiClient client;
 
     //TextView textView;
     @Override
@@ -75,17 +86,17 @@ public class FreeTimeActivity extends AppCompatActivity {
         linearMainCountainer = (LinearLayout) findViewById(R.id.linearFTMainCountainer);
 
         //textView = (TextView)findViewById(R.id.tvFTResultDigitado);
-        tvNumber1 = (TextView)findViewById(R.id.tvFTFirstNumber);
-        tvNumber2 = (TextView)findViewById(R.id.tvFTSecondNumber);
+        tvNumber1 = (TextView) findViewById(R.id.tvFTFirstNumber);
+        tvNumber2 = (TextView) findViewById(R.id.tvFTSecondNumber);
         tvSignal = (TextView) findViewById(R.id.tvFTSignal);
         tvResultDigitado = (TextView) findViewById(R.id.tvFTResultDigitado);
         tvResultCalculado = (TextView) findViewById(R.id.tvFTResultCalculado);
 
-        imgStar1 = (ImageView)findViewById(R.id.imgStar1);
-        imgStar2 = (ImageView)findViewById(R.id.imgStar2);
-        imgStar3 = (ImageView)findViewById(R.id.imgStar3);
-        imgStar4 = (ImageView)findViewById(R.id.imgStar4);
-        imgStar5 = (ImageView)findViewById(R.id.imgStar5);
+        imgStar1 = (ImageView) findViewById(R.id.imgStar1);
+        imgStar2 = (ImageView) findViewById(R.id.imgStar2);
+        imgStar3 = (ImageView) findViewById(R.id.imgStar3);
+        imgStar4 = (ImageView) findViewById(R.id.imgStar4);
+        imgStar5 = (ImageView) findViewById(R.id.imgStar5);
 
         tvGridResult_TotAcertos = (TextView) findViewById(R.id.tvFTGridResult_TotalAcertos);
         tvGridResult_TotErros = (TextView) findViewById(R.id.tvFTGridResult_TotalErros);
@@ -100,11 +111,11 @@ public class FreeTimeActivity extends AppCompatActivity {
         final Button btnEight = (Button) findViewById(R.id.btnFTEight);
         final Button btnNine = (Button) findViewById(R.id.btnFTNine);
         final Button btnZero = (Button) findViewById(R.id.btnFTZero);
-        final Button btnSend = (Button)findViewById(R.id.btnFTSend);
+        final Button btnSend = (Button) findViewById(R.id.btnFTSend);
         final Button btnErase = (Button) findViewById(R.id.btnFTErase);
 
-        btnStartNewGame = (Button)findViewById(R.id.btnFTStartNewGame);
-        btnVoltar = (Button)findViewById(R.id.btnFTVoltar1);
+        btnStartNewGame = (Button) findViewById(R.id.btnFTStartNewGame);
+        btnVoltar = (Button) findViewById(R.id.btnFTVoltar1);
 
         //errorSound = MediaPlayer.create(FreeTimeActivity.this, R.raw.error);
         //okSound = MediaPlayer.create(FreeTimeActivity.this,R.raw.ok);
@@ -175,8 +186,8 @@ public class FreeTimeActivity extends AppCompatActivity {
         btnErase.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (tvResultDigitado.getText().length()>0)
-                    tvResultDigitado.setText(tvResultDigitado.getText().toString().substring(0,tvResultDigitado.getText().length()-1));
+                if (tvResultDigitado.getText().length() > 0)
+                    tvResultDigitado.setText(tvResultDigitado.getText().toString().substring(0, tvResultDigitado.getText().length() - 1));
             }
         });
 
@@ -186,8 +197,7 @@ public class FreeTimeActivity extends AppCompatActivity {
 
                 if (tvResultDigitado.getText().toString().trim().equals("")) {
                     Toast.makeText(getBaseContext(), "DIGITE UM VALOR ANTES DE CONTINUAR.", Toast.LENGTH_SHORT).show();
-                }
-                else {
+                } else {
 
                     int iValorDigitado = Integer.parseInt(tvResultDigitado.getText().toString());
                     int iValorCalculado = Integer.parseInt(tvResultCalculado.getText().toString());
@@ -207,7 +217,7 @@ public class FreeTimeActivity extends AppCompatActivity {
 
                     }
 
-                    fPercAcertos = iCountAcertos*100/(iCountAcertos+iCountErros);
+                    fPercAcertos = iCountAcertos * 100 / (iCountAcertos + iCountErros);
 
                     tvGridResult_TotAcertos.setText(String.valueOf(iCountAcertos));
                     tvGridResult_TotErros.setText(String.valueOf(iCountErros));
@@ -232,7 +242,7 @@ public class FreeTimeActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                tableGame.startNotificationService();
+                //tableGame.startNotificationService();
                 tableGame.startNewGame(true);
                 tableGame.loadAdvertisement();
 
@@ -242,10 +252,13 @@ public class FreeTimeActivity extends AppCompatActivity {
             }
         });
 
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
     }
 
     @Override
-    protected void onDestroy(){
+    protected void onDestroy() {
         super.onDestroy();
 
         //Toast.makeText(getApplicationContext(), "Passei no OnDestroy", Toast.LENGTH_LONG).show();
@@ -285,8 +298,44 @@ public class FreeTimeActivity extends AppCompatActivity {
 
     private void getKeyboardEntry(Button mButtonText) {
 
-        String sResult = tvResultDigitado.getText()+ mButtonText.getText().toString();
+        String sResult = tvResultDigitado.getText() + mButtonText.getText().toString();
         tvResultDigitado.setText(sResult);
+    }
+
+    /**
+     * ATTENTION: This was auto-generated to implement the App Indexing API.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     */
+    public Action getIndexApiAction() {
+        Thing object = new Thing.Builder()
+                .setName("FreeTime Page") // TODO: Define a title for the content shown.
+                // TODO: Make sure this auto-generated URL is correct.
+                .setUrl(Uri.parse("http://[ENTER-YOUR-URL-HERE]"))
+                .build();
+        return new Action.Builder(Action.TYPE_VIEW)
+                .setObject(object)
+                .setActionStatus(Action.STATUS_TYPE_COMPLETED)
+                .build();
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client.connect();
+        AppIndex.AppIndexApi.start(client, getIndexApiAction());
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        AppIndex.AppIndexApi.end(client, getIndexApiAction());
+        client.disconnect();
     }
 
     private class TableGame {
@@ -294,7 +343,7 @@ public class FreeTimeActivity extends AppCompatActivity {
         private void initializeVariables() {
 
             errorSound = MediaPlayer.create(FreeTimeActivity.this, R.raw.error);
-            okSound = MediaPlayer.create(FreeTimeActivity.this,R.raw.ok);
+            okSound = MediaPlayer.create(FreeTimeActivity.this, R.raw.ok);
 
             iCountAcertos = 0;
             iCountErros = 0;
@@ -338,21 +387,21 @@ public class FreeTimeActivity extends AppCompatActivity {
                         imgStar5.setImageResource(R.drawable.star32yellow);
                         okSound.start();
                         break;
-                    }
+                }
 
-                }  else{
-                    bRestartStars = false;
-                    imgStar1.setImageResource(R.drawable.star32gray);
-                    imgStar2.setImageResource(R.drawable.star32gray);
-                    imgStar3.setImageResource(R.drawable.star32gray);
-                    imgStar4.setImageResource(R.drawable.star32gray);
-                    imgStar5.setImageResource(R.drawable.star32gray);
-                    errorSound.start();
+            } else {
+                bRestartStars = false;
+                imgStar1.setImageResource(R.drawable.star32gray);
+                imgStar2.setImageResource(R.drawable.star32gray);
+                imgStar3.setImageResource(R.drawable.star32gray);
+                imgStar4.setImageResource(R.drawable.star32gray);
+                imgStar5.setImageResource(R.drawable.star32gray);
+                errorSound.start();
 
             }
         }
 
-        private void startCountDown(final String pSeconds){
+        private void startCountDown(final String pSeconds) {
 
             //final Timer timer = new Timer();
             timer.scheduleAtFixedRate(new TimerTask() {
@@ -365,10 +414,10 @@ public class FreeTimeActivity extends AppCompatActivity {
 
                     STOP_COUNTDOWN = false;
 
-                    if (i<= 0) {
+                    if (i <= 0) {
                         timer.cancel();
 
-                        i = 0 ;
+                        i = 0;
                         STOP_COUNTDOWN = true;
 
                     }
@@ -386,7 +435,7 @@ public class FreeTimeActivity extends AppCompatActivity {
 
                                 //Toast.makeText(FreeTimeActivity.this, "Total de Acertos: " + iCountAcertos + "\n + Total de Erros: " + iCountErros, Toast.LENGTH_SHORT).show();
 
-                                sResultado = iCountAcertos +";" + iCountErros + ";" + fPercAcertos;
+                                sResultado = iCountAcertos + ";" + iCountErros + ";" + fPercAcertos;
 
                                 //Toast.makeText(getApplicationContext(), sResultado, Toast.LENGTH_LONG).show();
 
@@ -432,7 +481,7 @@ public class FreeTimeActivity extends AppCompatActivity {
             float iFirstNumber = random.nextInt(40);
             float iSecondNumber = random.nextInt(10);
 
-            if ((iOldFistNumber==iFirstNumber) && (iOldSecondNumber==iSecondNumber)){
+            if ((iOldFistNumber == iFirstNumber) && (iOldSecondNumber == iSecondNumber)) {
 
                 generateNewCalc();
 
@@ -451,15 +500,37 @@ public class FreeTimeActivity extends AppCompatActivity {
             float Result = 0;
 
             //clearFields(false);
+            switch (sSignal) {
 
+                case "+":
+                    Result = iFirstNumber + iSecondNumber;
+                    break;
+                case "-":
+                    Result = iFirstNumber - iSecondNumber;
+                    if (Result < 0) generateNewCalc();
+                    bZeroDivision = true;
+                    break;
+                case "/":
+                    resto = (int) (iFirstNumber % iSecondNumber);
+
+                    if (resto != 0 || iFirstNumber == 0.0 || iSecondNumber == 0.0) {
+                        generateNewCalc();
+                        bZeroDivision = true;
+                    }
+                    break;
+                case "x":
+                    iFirstNumber = random.nextInt(10);
+                    Result = iFirstNumber * iSecondNumber;
+                    break;
+            }
+
+            /*
             if (sSignal.equals("+"))
-                Result = iFirstNumber + iSecondNumber;
             else if (sSignal.equals("-")) {
                 Result = iFirstNumber - iSecondNumber;
-                if (Result <0) generateNewCalc();
+                if (Result < 0) generateNewCalc();
                 bZeroDivision = true;
-            }
-            else {
+            } else {
                 if (sSignal.equals("/")) {
 
                     resto = (int) (iFirstNumber % iSecondNumber);
@@ -473,7 +544,7 @@ public class FreeTimeActivity extends AppCompatActivity {
                     iFirstNumber = random.nextInt(10);
                     Result = iFirstNumber * iSecondNumber;
                 }
-            }
+            } */
 
             if (!bZeroDivision) {
 
@@ -493,7 +564,7 @@ public class FreeTimeActivity extends AppCompatActivity {
         private boolean validateResult(int pCalculatedValue, int pTypedValue) {
             boolean ok;
             //okSound.start();
-//zerrorSound.start();
+            //zerrorSound.start();
             ok = pCalculatedValue == pTypedValue;
             return ok;
         }
@@ -504,7 +575,6 @@ public class FreeTimeActivity extends AppCompatActivity {
         }
 
         private void loadAdvertisement() {
-
             // Create a AdView
             // Load Advertisement Banner
             AdView mFTAdView = (AdView) findViewById(R.id.adViewFTTableGame);

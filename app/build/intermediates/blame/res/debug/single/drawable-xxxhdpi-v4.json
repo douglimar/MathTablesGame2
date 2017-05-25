@@ -1,7 +1,7 @@
 [
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00000.png",
@@ -13,11 +13,11 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00014.png",
@@ -29,15 +29,15 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_cast_white.png",
@@ -45,7 +45,7 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00015.png",
@@ -53,11 +53,11 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_stop_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_stop_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_stop_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00006.png",
@@ -65,31 +65,31 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_closed_caption_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_closed_caption_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_closed_caption_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_pause_grey600_48.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_grey600_48.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_grey600_48.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00001.png",
@@ -97,19 +97,19 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_volume_off_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_volume_off_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_volume_off_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_volume_off_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_volume_off_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_volume_off_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00005.png",
@@ -117,7 +117,7 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_volume_up_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_volume_up_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_volume_up_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_light.png",
@@ -125,11 +125,11 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00008.png",
@@ -137,7 +137,7 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_replay_10_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_10_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_10_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00003.png",
@@ -145,7 +145,7 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_clear_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_clear_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_clear_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00009.png",
@@ -153,19 +153,23 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_art_track_grey600_48.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_art_track_grey600_48.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_art_track_grey600_48.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00012.png",
         "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00012.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00004.png",
@@ -173,15 +177,15 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00003.png",
@@ -189,15 +193,15 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_cast_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_cast_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_cast_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_closed_caption_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_close_light.png",
@@ -205,15 +209,15 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_cast_connected_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_cast_connected_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_cast_connected_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00009.png",
@@ -221,35 +225,35 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_pause_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00013.png",
@@ -257,7 +261,7 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00010.png",
@@ -265,11 +269,11 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_forward_10_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_10_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_10_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_replay_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00001.png",
@@ -277,11 +281,11 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00015.png",
@@ -289,19 +293,19 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_pause_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_refresh_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_refresh_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_refresh_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\cast_ic_stop_circle_filled_white.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\cast_ic_stop_circle_filled_white.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\cast_ic_stop_circle_filled_white.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00006.png",
@@ -309,7 +313,7 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00007.png",
@@ -321,27 +325,27 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_stop_grey600_48.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_stop_grey600_48.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_stop_grey600_48.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00002.png",
@@ -349,7 +353,7 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_white_24.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_white_24.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_white_24.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00013.png",
@@ -357,19 +361,23 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_volume_up_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_volume_up_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_volume_up_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_30_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00011.png",
@@ -389,15 +397,15 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00011.png",
@@ -413,7 +421,7 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00008.png",
@@ -425,11 +433,11 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_stop_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_stop_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_stop_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00002.png",
@@ -437,6 +445,6 @@
     },
     {
         "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     }
 ]

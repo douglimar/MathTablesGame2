@@ -1,7 +1,7 @@
 -injars 'C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
 -outjars 'C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\multi-dex\debug\componentClasses.jar'
 
--libraryjars 'C:\Users\dmoraes\AppData\Local\Android\sdk\build-tools\24.0.1\lib\shrinkedAndroid.jar'
+-libraryjars 'C:\Users\dmoraes\AppData\Local\Android\sdk\build-tools\25.0.0\lib\shrinkedAndroid.jar'
 
 -forceprocessing
 -dontoptimize

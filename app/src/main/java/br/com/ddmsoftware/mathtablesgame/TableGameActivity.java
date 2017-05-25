@@ -178,7 +178,7 @@ public class TableGameActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 if (tvResultDigitado.getText().toString().trim().equals("")) {
-                    Toast.makeText(getBaseContext(), "DIGITE UM VALOR ANTES DE CONTINUAR.", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getBaseContext(), getResources().getString(R.string.alert), Toast.LENGTH_SHORT).show();
                 }
                 else {
 
@@ -384,6 +384,31 @@ public class TableGameActivity extends AppCompatActivity {
 
             //clearFields(false);
 
+            switch (sSignal) {
+                case "+":
+                    Result = iFirstNumber + iSecondNumber;
+                    break;
+                case "-":
+                    Result = iFirstNumber - iSecondNumber;
+                    if (Result <0) generateNewCalc();
+                    bZeroDivision = true;
+                    break;
+                case "/":
+                    resto = (int) (iFirstNumber % iSecondNumber);
+
+                    if (resto != 0 || iFirstNumber == 0.0 || iSecondNumber == 0.0) {
+                        generateNewCalc();
+                        bZeroDivision = true;
+                    } else
+                        Result = iFirstNumber / iSecondNumber;
+                     break;
+                case "x":
+                    iFirstNumber = random.nextInt(10);
+                    Result = iFirstNumber * iSecondNumber;
+                    break;
+            }
+
+            /*
             if (sSignal.equals("+"))
                 Result = iFirstNumber + iSecondNumber;
             else if (sSignal.equals("-")) {
@@ -405,7 +430,7 @@ public class TableGameActivity extends AppCompatActivity {
                     iFirstNumber = random.nextInt(10);
                     Result = iFirstNumber * iSecondNumber;
                 }
-            }
+            } */
 
             if (!bZeroDivision) {
 

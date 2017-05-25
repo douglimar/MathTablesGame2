@@ -58,10 +58,12 @@ public class NotificationIntentService extends IntentService {
 
     private void processStartNotification() {
         final NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
-        builder.setContentTitle("Jogo de Matemática.")
+        String hint = getResources().getString(R.string.hint) ;
+
+        builder.setContentTitle(getResources().getString(R.string.app_name))
                 .setAutoCancel(true)
                 .setColor(getResources().getColor(R.color.colorAccent))
-                .setContentText("Já estudou hoje? O Jogo da tabuada irá te ajudar.")
+                .setContentText(hint)
                 .setSmallIcon(R.mipmap.ic_launcher);
 
         PendingIntent pendingIntent = PendingIntent.getActivity(this, NOTIFICATION_ID,

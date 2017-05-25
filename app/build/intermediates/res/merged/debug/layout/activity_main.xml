@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_main"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    android:orientation="vertical"
-    android:background="@android:color/background_light"
-    android:gravity="center_vertical">
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical"
+        android:background="@color/cardview_light_background"
+        android:gravity="center_vertical">
 
     <TextView
-        android:text="Selecione abaixo qual tipo de Jogo deseja iniciar"
+        android:text="@string/selecione_abaixo_qual_tipo_de_jogo_deseja_iniciar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView2"
@@ -26,6 +25,7 @@
         android:layout_height="wrap_content"
         android:text="@string/contagem_regressiva_n_nvoc_tem_60_seg_para_resolver_o_maior_n_mero_de_quest_es"
         android:drawableLeft="@drawable/countdown2"
+        android:drawableStart="@drawable/countdown2"
         android:textAllCaps="false"
         android:background="@android:color/holo_orange_light"
         android:padding="10dp"
@@ -37,13 +37,15 @@
         android:id="@+id/btnFreeTime"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="TEMPO LIVRE\n\nSem controle de tempo. Bom para estudar enquanto acumula estrelas"
+        android:text="@string/tempo_livre_n_nsem_controle_de_tempo_bom_para_estudar_enquanto_acumula_estrelas"
         android:drawableLeft="@drawable/freetime2"
+        android:drawableStart="@drawable/freetime2"
         android:textAllCaps="false"
         android:background="@color/cast_intro_overlay_button_background_color"
         android:padding="10dp"
         android:layout_marginBottom="5dp"
-        android:layout_marginTop="5dp" />
+        android:layout_marginTop="5dp"
+        />
 
 
     <com.google.android.gms.ads.AdView

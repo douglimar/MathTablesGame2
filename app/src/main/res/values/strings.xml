@@ -2,34 +2,35 @@
     <string name="app_name">Jogo da Tabuada</string>
     <string name="tvResultGrid_Erros">Total de Erros</string>
     <string name="edtResultGrid_TotalAcertos">Total de Acertos</string>
-    <string name="tvResultGrid_TotalTentativas">Total de Tentativas</string>
-    <string name="advertisement">Patrocínio</string>
-    <string name="banner_ad_unit_id">ca-app-pub-1098336821710456/9536854800</string>
-    <string name="banner_ad_unit_TESTE">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-1098336821710456/9536854800</string>
+    <string name="banner_ad_unit_TESTE" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="contagem_regressiva_n_nvoc_tem_60_seg_para_resolver_o_maior_n_mero_de_quest_es">CONTAGEM REGRESSIVA\n\nVocê tem 60 seg. para resolver o maior número de questões</string>
     <string name="btn_Iniciar_Teste_Matematica">INICIAR NOVO \nTESTE DE MATEMÁTICA</string>
     <string name="limpar">Limpar</string>
     <string name="Countdown">Tempo Restante:</string>
     <string name="resultadoGeral">RESULTADO GERAL</string>
-    <string name="TotalAcertos">Total Acertos</string>
-    <string name="acertos">% Acertos</string>
-    <string name="_40">40</string>
+    <string name="acertos">%Acertos </string>
+    <string name="_40" translatable="false">40</string>
     <string name="nok">NOK</string>
     <string name="voltar">Voltar</string>
     <string name="final_message80Perc">Parabéns. Você esta no caminho certo.</string>
     <string name="final_message50Perc">Você esta no caminho certo, mas pode melhorar.</string>
     <string name="final_messageLess50Perc">Vamos estudar um pouco mais.</string>
-    <string name="_0">0</string>
-    <string name="x">X</string>
-    <string name="_1">1</string>
-    <string name="_3">3</string>
-    <string name="_2">2</string>
-    <string name="_4">4</string>
-    <string name="_5">5</string>
-    <string name="_6">6</string>
-    <string name="_7">7</string>
-    <string name="_8">8</string>
-    <string name="_9">9</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="x" translatable="false">X</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="_2" translatable="false">2</string>
+    <string name="_4" translatable="false">4</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="_6" translatable="false">6</string>
+    <string name="_7" translatable="false">7</string>
+    <string name="_8" translatable="false">8</string>
+    <string name="_9" translatable="false">9</string>
     <string name="enviar">Enviar</string>
+    <string name="tempo_livre_n_nsem_controle_de_tempo_bom_para_estudar_enquanto_acumula_estrelas">TEMPO LIVRE\n\nSem controle de tempo. Bom para estudar enquanto acumula estrelas</string>
+    <string name="selecione_abaixo_qual_tipo_de_jogo_deseja_iniciar">Selecione abaixo qual tipo de Jogo deseja iniciar</string>
+    <string name="hint">Já estudou hoje? O Jogo da tabuada irá te ajudar a melhorar suas habilidades matemáticas.</string>
+    <string name="alert">DIGITE UM NÚMERO ANTES DE CONTINUAR.</string>
 
 </resources>

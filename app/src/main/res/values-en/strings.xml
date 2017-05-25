@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Math Tables Game</string>
+    <string name="Countdown">Remaining Time:</string>
+    <string name="acertos">% Right Answers</string>
+    <string name="btn_Iniciar_Teste_Matematica">START NEW</string>
+    <string name="contagem_regressiva_n_nvoc_tem_60_seg_para_resolver_o_maior_n_mero_de_quest_es">CONTDOWN.\n\n You have 60 secs. to solve the questions</string>
+    <string name="edtResultGrid_TotalAcertos">Right Answers</string>
+    <string name="enviar">Send</string>
+    <string name="final_message50Perc">You are on the right way, but can improve.</string>
+    <string name="final_message80Perc">Congratulations. We are on the right way.</string>
+    <string name="final_messageLess50Perc">Needs Improvement.</string>
+    <string name="hint">Did you study today? Math Tables Game will help you improve your Math skills.</string>
+    <string name="limpar">Clear</string>
+    <string name="nok">NOK</string>
+    <string name="resultadoGeral">GENERAL RESULT</string>
+    <string name="tvResultGrid_Erros">Wrong Answers</string>
+    <string name="voltar">Back</string>
+    <string name="tempo_livre_n_nsem_controle_de_tempo_bom_para_estudar_enquanto_acumula_estrelas">"FREE TIME\n\n Without time. Good to study and improve your math skills. "</string>
+    <string name="selecione_abaixo_qual_tipo_de_jogo_deseja_iniciar">\"Select the Game Mode below: \"</string>
+    <string name="alert">TYPE A NUMBER BEFORE CONTINUE.</string>
+</resources>
