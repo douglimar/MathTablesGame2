@@ -1,477 +1,477 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:2:1-48:12
 	package
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:3:5-48
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:20:5-66
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/6e1eb53fcdce5a7f95228896d089ac0d25dff5b4/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/douglimar/.android/build-cache/472247ea3f8c0093445879737c1978520c12373d/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/63f5fff198bc727d26202181a57d5af89c64987b/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/douglimar/.android/build-cache/10212dbc54f4e6a30941eae4962155a119c27ee7/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/080dbf36bb63f86fcbdab8504c47d990764d7167/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/276673ff83679107ea04867856c7a12b1d20a8ea/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/02aacac159c1e1041e2efbe1ca0b7c06f8238816/output/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:6:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\AndroidManifest.xml:4:5-78
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:19:5-78
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/6e1eb53fcdce5a7f95228896d089ac0d25dff5b4/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/douglimar/.android/build-cache/6a7a20849c3ab5dd2fad9b30979574ce74e17794/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/080dbf36bb63f86fcbdab8504c47d990764d7167/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/276673ff83679107ea04867856c7a12b1d20a8ea/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/02aacac159c1e1041e2efbe1ca0b7c06f8238816/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:8:5-68
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:24:5-67
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:8:5-68
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/6e1eb53fcdce5a7f95228896d089ac0d25dff5b4/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/080dbf36bb63f86fcbdab8504c47d990764d7167/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/276673ff83679107ea04867856c7a12b1d20a8ea/output/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:8:22-65
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:8:22-65
 application
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:10:5-46:19
-MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\10.0.1\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:4:5-8:19
-MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:23:5-19
-MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\AndroidManifest.xml:5:5-19
-MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:23:5-33:19
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:28:5-50:19
-MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\AndroidManifest.xml:19:5-19
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:10:5-46:19
+MERGED from [com.google.android.gms:play-services:10.0.1] /home/douglimar/.android/build-cache/e655840b3a979bf9afee27519b74863d703692a5/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/6e1eb53fcdce5a7f95228896d089ac0d25dff5b4/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/4224ed1ba4f8992bb60d64f156648d2f2c1eb0a0/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /home/douglimar/.android/build-cache/822f9f22c73c0dff7928d3593e3f69f258d1fb26/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /home/douglimar/.android/build-cache/3c7dd545e3f0982f64a23eff03ec505b80f7d528/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/douglimar/.android/build-cache/fbe11a5240d14de5bf3202ded04f12a535b3078e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/douglimar/.android/build-cache/eedf94af6b0623ea0401b5c309a7424871576e91/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /home/douglimar/.android/build-cache/99a992a671429e7e5b00e0425160bc32b0358e8b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] /home/douglimar/.android/build-cache/6e1efd6ed478306a8c11146907143c7ca92556c5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /home/douglimar/.android/build-cache/1d13c44e9bad8c243ddc5d4ffd902e7718d58694/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/douglimar/.android/build-cache/472247ea3f8c0093445879737c1978520c12373d/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/douglimar/.android/build-cache/ae47b68393f04b24e0876061fe07b8c287901803/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/5dffbaaf5d59335ff5066aa02ab5c06b4898acfb/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/douglimar/.android/build-cache/1537c37b4507144dc3b6a09d70f2411085e16760/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /home/douglimar/.android/build-cache/48ba3db6d2462a62ba034b2aa5a438eed42e83a9/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /home/douglimar/.android/build-cache/024c88384f4eea57a0e0c019fcaa5c56d9d73f63/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /home/douglimar/.android/build-cache/a25ad91366cc3cf9515f9a252c54d0c1d4655560/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/63f5fff198bc727d26202181a57d5af89c64987b/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /home/douglimar/.android/build-cache/a60e7b08d8ba12d8a1e4dded9761f52c35ec32d8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/douglimar/.android/build-cache/10212dbc54f4e6a30941eae4962155a119c27ee7/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/douglimar/.android/build-cache/3fa6b59a69fdff293316bb6c7642f24c25470c1b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/douglimar/.android/build-cache/6a7a20849c3ab5dd2fad9b30979574ce74e17794/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /home/douglimar/.android/build-cache/900bc18393cc504ae32cf06a916e1e38570e6d3d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/douglimar/.android/build-cache/b1f8852df63a5f9536e013c2ff242359c10e2232/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/douglimar/.android/build-cache/5653d534f794cc6a9dac62f33ce6d72ed69b407f/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /home/douglimar/.android/build-cache/be5e71060ac718b4524be7bd2d6e28680579e3ea/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/080dbf36bb63f86fcbdab8504c47d990764d7167/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/4925b40ed321370c551c604ecdc8fa10f044abc9/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/douglimar/.android/build-cache/b1d461be423c0294fd7e87f98198247493ae5e43/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/276673ff83679107ea04867856c7a12b1d20a8ea/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/douglimar/.android/build-cache/05a3564d8be98db8368b94bc47d85e12a9ec0063/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /home/douglimar/.android/build-cache/a2b6bbb91bf9ea3cb0def4c67b93ebf09ad3fd92/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/02aacac159c1e1041e2efbe1ca0b7c06f8238816/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/douglimar/.android/build-cache/962a8bf3da64a9fbbe7eabb9bb74db93ea1c4da9/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/8da57e09f137fc3c6b1b499380073b66039262f5/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/douglimar/.android/build-cache/4a49037ba124ed57f30cf4a9387bc2c733e1c6b8/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/douglimar/.android/build-cache/0d9bc7a4c491417cb62fd05bd8883574fdd96c50/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.0.1] /home/douglimar/.android/build-cache/a0758ec0393e9c6dc1b03455f3934c730c448673/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /home/douglimar/.android/build-cache/d2a7980a2a658c8c4d26618d74fac9553ab28113/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/douglimar/.android/build-cache/9f5614128be58b31cfa36d69e23250a57492a874/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/douglimar/.android/build-cache/be76a9e847b9cf7405a98c12f22e0bbfd65cf270/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] /home/douglimar/.android/build-cache/f57ed83c11cdcba815b5e54084826411243ee044/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/douglimar/.android/build-cache/a9518c6222b7a5746fcd87c404594233563c307b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /home/douglimar/.android/build-cache/8e07e711d1d874143f16e2bd9cd63a64f284baf1/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:14:9-41
 	android:supportsRtl
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:16:9-35
 	android:allowBackup
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:13:9-37
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:13:9-37
 	android:theme
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:11:9-68
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:11:9-68
 service#br.com.ddmsoftware.mathtablesgame.NotificationIntentService
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:18:9-21:40
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:18:9-21:40
 	android:enabled
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:20:13-35
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:20:13-35
 	android:exported
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:19:13-54
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:19:13-54
 receiver#br.com.ddmsoftware.mathtablesgame.NotificationEventReceiver
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:23:9-63
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:23:9-63
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:23:19-60
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:23:19-60
 receiver#br.com.ddmsoftware.mathtablesgame.NotificationServiceStartReceiver
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:24:9-30:20
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:24:9-30:20
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:24:19-67
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:24:19-67
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:25:13-29:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:26:17-79
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:26:17-79
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:26:25-76
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:26:25-76
 action#android.intent.action.TIMEZONE_CHANGED
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:27:17-81
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:27:17-81
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:27:25-78
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:27:25-78
 action#android.intent.action.TIME_SET
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:28:17-73
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:28:17-73
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:28:25-70
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:28:25-70
 activity#br.com.ddmsoftware.mathtablesgame.ResultActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:32:9-52
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:32:9-52
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:32:19-49
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:32:19-49
 activity#br.com.ddmsoftware.mathtablesgame.TableGameActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:33:9-54
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:33:9-54
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:33:19-52
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:33:19-52
 activity#br.com.ddmsoftware.mathtablesgame.FreeTimeActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:34:9-53
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:34:9-53
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:34:19-51
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:34:19-51
 activity#br.com.ddmsoftware.mathtablesgame.MainActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:35:9-41:20
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:35:9-41:20
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:35:19-47
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:35:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:36:13-40:29
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:36:13-40:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:39:27-74
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:43:9-45:69
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:43:9-45:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/douglimar/.android/build-cache/0d9bc7a4c491417cb62fd05bd8883574fdd96c50/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:45:13-66
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:45:13-66
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:44:13-58
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:44:13-58
 uses-sdk
-INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\10.0.1\AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:22:5-42
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\AndroidManifest.xml:20:5-42
-MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:10.0.1] /home/douglimar/.android/build-cache/e655840b3a979bf9afee27519b74863d703692a5/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /home/douglimar/.android/build-cache/870f81042c3269c4d335dab07607c6ccaf36a8cc/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/6e1eb53fcdce5a7f95228896d089ac0d25dff5b4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /home/douglimar/.android/build-cache/d566f9885d9caf71a81205c2cbf0cbc3b898a8f0/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/4224ed1ba4f8992bb60d64f156648d2f2c1eb0a0/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /home/douglimar/.android/build-cache/822f9f22c73c0dff7928d3593e3f69f258d1fb26/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/douglimar/.android/build-cache/3c7dd545e3f0982f64a23eff03ec505b80f7d528/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/douglimar/.android/build-cache/fbe11a5240d14de5bf3202ded04f12a535b3078e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/douglimar/.android/build-cache/eedf94af6b0623ea0401b5c309a7424871576e91/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /home/douglimar/.android/build-cache/99a992a671429e7e5b00e0425160bc32b0358e8b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] /home/douglimar/.android/build-cache/6e1efd6ed478306a8c11146907143c7ca92556c5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /home/douglimar/.android/build-cache/1d13c44e9bad8c243ddc5d4ffd902e7718d58694/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/douglimar/.android/build-cache/472247ea3f8c0093445879737c1978520c12373d/output/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/douglimar/.android/build-cache/ae47b68393f04b24e0876061fe07b8c287901803/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/douglimar/.android/build-cache/baffbde0278da170197ccae8294a57cf7f830515/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/douglimar/.android/build-cache/d4e949cb93cf607bed4cccad9e9ac673597d1422/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/5dffbaaf5d59335ff5066aa02ab5c06b4898acfb/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /home/douglimar/.android/build-cache/0da97d05db9c217e1a40fbdf099d9b90871b6418/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /home/douglimar/.android/build-cache/842b4e2ba31aae32fc70c742b8ae843fd293dce8/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/douglimar/.android/build-cache/1537c37b4507144dc3b6a09d70f2411085e16760/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /home/douglimar/.android/build-cache/48ba3db6d2462a62ba034b2aa5a438eed42e83a9/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /home/douglimar/.android/build-cache/024c88384f4eea57a0e0c019fcaa5c56d9d73f63/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /home/douglimar/.android/build-cache/a25ad91366cc3cf9515f9a252c54d0c1d4655560/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/63f5fff198bc727d26202181a57d5af89c64987b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /home/douglimar/.android/build-cache/a60e7b08d8ba12d8a1e4dded9761f52c35ec32d8/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/douglimar/.android/build-cache/10212dbc54f4e6a30941eae4962155a119c27ee7/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] /home/douglimar/.android/build-cache/086a417f4d0ae96854062eb425fe838b2eb5cb57/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/douglimar/.android/build-cache/3fa6b59a69fdff293316bb6c7642f24c25470c1b/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/douglimar/.android/build-cache/6a7a20849c3ab5dd2fad9b30979574ce74e17794/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /home/douglimar/.android/build-cache/900bc18393cc504ae32cf06a916e1e38570e6d3d/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/douglimar/.android/build-cache/b1f8852df63a5f9536e013c2ff242359c10e2232/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/douglimar/.android/build-cache/5653d534f794cc6a9dac62f33ce6d72ed69b407f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /home/douglimar/.android/build-cache/be5e71060ac718b4524be7bd2d6e28680579e3ea/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] /home/douglimar/.android/build-cache/984b55c30da3464c2d90bc2eb0d22899a412a0ab/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/080dbf36bb63f86fcbdab8504c47d990764d7167/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/4925b40ed321370c551c604ecdc8fa10f044abc9/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/douglimar/.android/build-cache/b1d461be423c0294fd7e87f98198247493ae5e43/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/276673ff83679107ea04867856c7a12b1d20a8ea/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/douglimar/.android/build-cache/05a3564d8be98db8368b94bc47d85e12a9ec0063/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] /home/douglimar/.android/build-cache/36435ea209d33322f719e1145a5b7068926205fc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /home/douglimar/.android/build-cache/a2b6bbb91bf9ea3cb0def4c67b93ebf09ad3fd92/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/02aacac159c1e1041e2efbe1ca0b7c06f8238816/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/douglimar/.android/build-cache/962a8bf3da64a9fbbe7eabb9bb74db93ea1c4da9/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/8da57e09f137fc3c6b1b499380073b66039262f5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/douglimar/.android/build-cache/4a49037ba124ed57f30cf4a9387bc2c733e1c6b8/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/douglimar/.android/build-cache/0d9bc7a4c491417cb62fd05bd8883574fdd96c50/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.0.1] /home/douglimar/.android/build-cache/a0758ec0393e9c6dc1b03455f3934c730c448673/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /home/douglimar/.android/build-cache/d2a7980a2a658c8c4d26618d74fac9553ab28113/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/douglimar/.android/build-cache/9f5614128be58b31cfa36d69e23250a57492a874/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/douglimar/.android/build-cache/be76a9e847b9cf7405a98c12f22e0bbfd65cf270/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:cardview-v7:25.0.1] /home/douglimar/.android/build-cache/f57ed83c11cdcba815b5e54084826411243ee044/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] /home/douglimar/.android/build-cache/d8cb651416cdaed287f7eecdfb42d392bd397573/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:recyclerview-v7:25.0.1] /home/douglimar/.android/build-cache/da64c974131e250b36b1af04b8d29630e278fb75/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/douglimar/.android/build-cache/a9518c6222b7a5746fcd87c404594233563c307b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] /home/douglimar/.android/build-cache/8e07e711d1d874143f16e2bd9cd63a64f284baf1/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:25:19-71
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:19-91
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/040ceb5ab7a3d4fe03bac08fee90597e03fbbe9e/output/AndroidManifest.xml:26:19-91
 activity#com.google.android.gms.appinvite.PreviewActivity
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:20:9-25:20
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:20:9-25:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:20:51-74
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:20:51-74
 	android:theme
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:20:75-121
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:20:75-121
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:20:19-50
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:20:19-50
 intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:21:13-24:29
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:21:13-24:29
 action#com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:22:17-89
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:22:17-89
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:22:25-87
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:22:25-87
 category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:23:17-75
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:23:17-75
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:23:27-73
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/a9025eb385ab263486e063884a0ed3d9a353b960/output/AndroidManifest.xml:23:27-73
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:9-189
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:20:9-189
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:129-162
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:20:129-162
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:163-187
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:20:163-187
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:69-128
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:20:69-128
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:19-68
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:20:19-68
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:24:9-184
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:24:9-184
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:24:64-87
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:24:64-87
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:24:88-182
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:24:88-182
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:24:18-63
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/d57916b92ede0007889b5288002a78fd3a601376/output/AndroidManifest.xml:24:18-63
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:5:9-99
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/4224ed1ba4f8992bb60d64f156648d2f2c1eb0a0/output/AndroidManifest.xml:5:9-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:5:19-97
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/4224ed1ba4f8992bb60d64f156648d2f2c1eb0a0/output/AndroidManifest.xml:5:19-97
 service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:6:9-103
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/4224ed1ba4f8992bb60d64f156648d2f2c1eb0a0/output/AndroidManifest.xml:6:9-103
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:6:18-101
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/4224ed1ba4f8992bb60d64f156648d2f2c1eb0a0/output/AndroidManifest.xml:6:18-101
 service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:7:9-92
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/4224ed1ba4f8992bb60d64f156648d2f2c1eb0a0/output/AndroidManifest.xml:7:9-92
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:7:18-90
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/4224ed1ba4f8992bb60d64f156648d2f2c1eb0a0/output/AndroidManifest.xml:7:18-90
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:23:9-27:19
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/5dffbaaf5d59335ff5066aa02ab5c06b4898acfb/output/AndroidManifest.xml:23:9-27:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:23:88-111
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/5dffbaaf5d59335ff5066aa02ab5c06b4898acfb/output/AndroidManifest.xml:23:88-111
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:23:18-87
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/5dffbaaf5d59335ff5066aa02ab5c06b4898acfb/output/AndroidManifest.xml:23:18-87
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:24:13-26:29
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/5dffbaaf5d59335ff5066aa02ab5c06b4898acfb/output/AndroidManifest.xml:24:13-26:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:24:28-51
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/5dffbaaf5d59335ff5066aa02ab5c06b4898acfb/output/AndroidManifest.xml:24:28-51
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:25:17-77
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/5dffbaaf5d59335ff5066aa02ab5c06b4898acfb/output/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:25:25-75
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/5dffbaaf5d59335ff5066aa02ab5c06b4898acfb/output/AndroidManifest.xml:25:25-75
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:20:5-81
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:22:5-81
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/63f5fff198bc727d26202181a57d5af89c64987b/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/douglimar/.android/build-cache/10212dbc54f4e6a30941eae4962155a119c27ee7/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:20:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/63f5fff198bc727d26202181a57d5af89c64987b/output/AndroidManifest.xml:20:22-79
 service#com.google.android.gms.tagmanager.TagManagerService
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:24:9-134
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:24:9-134
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:24:110-132
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:24:110-132
 	android:exported
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:24:85-109
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:24:85-109
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:24:18-84
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:24:18-84
 activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:25:9-32:20
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:25:9-32:20
 	android:noHistory
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:25:94-118
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:25:94-118
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:25:19-93
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:25:19-93
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:26:13-31:29
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:26:13-31:29
 data
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:27:17-71
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:27:17-71
 	android:scheme
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:27:23-69
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:27:23-69
 action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:28:17-68
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:28:25-66
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:28:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:30:17-77
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:30:27-75
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/81b9c537a358dd1d7f39dc378153499c4c68956f/output/AndroidManifest.xml:30:27-75
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/080dbf36bb63f86fcbdab8504c47d990764d7167/output/AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/080dbf36bb63f86fcbdab8504c47d990764d7167/output/AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/a75b22b7a0bd9e2d00a43b82a5e2989e4bdc5803/output/AndroidManifest.xml:32:16-87
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:9-36:20
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:30:9-36:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:31:13-35:29
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:31:13-35:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:32:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:33:17-85
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:33:17-85
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:33:25-83
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:33:25-83
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:34:17-60
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:34:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:34:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:34:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:9-119
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:40:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:40:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:40:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:9-48:19
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:44:9-48:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:44:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:18-82
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:44:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:45:13-47:29
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:45:13-47:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:45:28-51
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:45:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:46:17-79
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:46:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:46:25-77
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/3f45fb9dabcfb7fea6d8aa560649decfb6d84497/output/AndroidManifest.xml:46:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/4925b40ed321370c551c604ecdc8fa10f044abc9/output/AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/4925b40ed321370c551c604ecdc8fa10f044abc9/output/AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/4925b40ed321370c551c604ecdc8fa10f044abc9/output/AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/4925b40ed321370c551c604ecdc8fa10f044abc9/output/AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/4925b40ed321370c551c604ecdc8fa10f044abc9/output/AndroidManifest.xml:6:79-143
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/02aacac159c1e1041e2efbe1ca0b7c06f8238816/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/02aacac159c1e1041e2efbe1ca0b7c06f8238816/output/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/02aacac159c1e1041e2efbe1ca0b7c06f8238816/output/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/8da57e09f137fc3c6b1b499380073b66039262f5/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/8da57e09f137fc3c6b1b499380073b66039262f5/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/8da57e09f137fc3c6b1b499380073b66039262f5/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/8da57e09f137fc3c6b1b499380073b66039262f5/output/AndroidManifest.xml:19:19-85

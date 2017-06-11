@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support.test\\rules\\0.5\\res\\values\\values.xml",
+                    "file": "/home/douglimar/.android/build-cache/01bcaf4d62d8932d7c0e52ffd50cac1f741eda57/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

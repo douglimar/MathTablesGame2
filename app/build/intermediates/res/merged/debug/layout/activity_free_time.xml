@@ -9,7 +9,35 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:background="@drawable/backgroundv5">
+    android:background="@color/colorBackgroundFreeTime">
+
+
+    <Button
+        android:id="@+id/btnFTStartNewGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_Iniciar_Teste_Matematica"
+        android:drawableStart="@drawable/freetime2"
+        android:drawableLeft="@drawable/freetime2"
+        android:textAllCaps="false"
+        android:background="@color/cast_intro_overlay_button_background_color"
+        android:padding="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="@string/voltar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cardview_shadow_start_color"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/btnFTStartNewGame"
+        android:id="@+id/btnFTVoltar1" />
 
     <LinearLayout
         android:orientation="vertical"
@@ -305,30 +333,4 @@
 
     </LinearLayout>
 
-    <Button
-        android:id="@+id/btnFTStartNewGame"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/btn_Iniciar_Teste_Matematica"
-        android:drawableStart="@drawable/freetime2"
-        android:drawableLeft="@drawable/freetime2"
-        android:textAllCaps="false"
-        android:background="@color/cast_intro_overlay_button_background_color"
-        android:padding="10dp"
-        android:layout_marginTop="5dp"
-        android:layout_marginBottom="5dp"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
-
-    <Button
-        android:text="@string/voltar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/cardview_shadow_start_color"
-        android:layout_marginBottom="10dp"
-        android:layout_marginTop="10dp"
-        android:layout_centerHorizontal="true"
-        android:layout_centerInParent="true"
-        android:layout_below="@+id/btnFTStartNewGame"
-        android:id="@+id/btnFTVoltar1" />
 </RelativeLayout>

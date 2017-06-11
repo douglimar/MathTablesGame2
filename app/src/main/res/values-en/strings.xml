@@ -3,7 +3,8 @@
     <string name="app_name">Math Tables Game</string>
     <string name="Countdown">Remaining Time:</string>
     <string name="acertos">% Right Answers</string>
-    <string name="btn_Iniciar_Teste_Matematica">START NEW</string>
+    <string name="btn_Iniciar_Teste_MatematicaCountdown">START NEW \nCOUNTDOWN TEST</string>
+<string name="btn_Iniciar_Teste_Matematica">START NEW \n"FREE TIME" TEST</string>
     <string name="contagem_regressiva_n_nvoc_tem_60_seg_para_resolver_o_maior_n_mero_de_quest_es">CONTDOWN.\n\n You have 60 secs. to solve the questions</string>
     <string name="edtResultGrid_TotalAcertos">Right Answers</string>
     <string name="enviar">Send</string>

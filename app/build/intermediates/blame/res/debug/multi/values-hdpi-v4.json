@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

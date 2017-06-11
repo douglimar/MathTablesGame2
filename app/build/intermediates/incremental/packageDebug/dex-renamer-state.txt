@@ -1,7 +1,7 @@
-#Thu May 25 16:09:40 BRT 2017
-base.0=C\:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Jun 11 20:45:29 BRT 2017
+base.0=/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8fe6b69e04106e95b860fd1f21a137a22c642c7a
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=C\:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex
-base.1=C\:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-file.0=C\:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f30d81bde3943f2168871c001235c25b15f1b5d6/classes.dex
+base.1=/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f30d81bde3943f2168871c001235c25b15f1b5d6
+file.0=/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8fe6b69e04106e95b860fd1f21a137a22c642c7a/classes.dex
