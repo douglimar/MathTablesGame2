@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+        "outputFile": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "/home/douglimar/.android/build-cache/36435ea209d33322f719e1145a5b7068926205fc/output/res/values-en-rSG/values.xml",
+                    "file": "C:\\Users\\dmoraes\\.android\\build-cache\\b65f48f6af6ced517954ac9d2bdbd9e413e5c98c\\output\\res\\values-en-rSG\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

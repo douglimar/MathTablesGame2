@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     }
 ]

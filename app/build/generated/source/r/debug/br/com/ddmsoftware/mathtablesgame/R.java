@@ -3282,8 +3282,8 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f02015a;
         public static final int notification_bg_normal_pressed=0x7f02015b;
         public static final int notification_icon_background=0x7f02015c;
-        public static final int notification_template_icon_bg=0x7f020190;
-        public static final int notification_template_icon_low_bg=0x7f020191;
+        public static final int notification_template_icon_bg=0x7f020191;
+        public static final int notification_template_icon_low_bg=0x7f020192;
         public static final int notification_tile_bg=0x7f02015d;
         public static final int notify_panel_notification_icon_bg=0x7f02015e;
         public static final int places_ic_clear=0x7f02015f;
@@ -3335,6 +3335,7 @@ containing a value of this type.
         public static final int star32yellow=0x7f02018d;
         public static final int wallpaper=0x7f02018e;
         public static final int wallpaper2=0x7f02018f;
+        public static final int wallpaper3=0x7f020190;
     }
     public static final class id {
         public static final int action0=0x7f0e0138;
@@ -3765,6 +3766,7 @@ containing a value of this type.
         public static final int ic_launcher=0x7f030000;
         public static final int logo2=0x7f030001;
         public static final int logo3=0x7f030002;
+        public static final int logotipo=0x7f030003;
     }
     public static final class raw {
         public static final int error=0x7f070000;

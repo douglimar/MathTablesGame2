@@ -1026,8 +1026,8 @@ int drawable notification_bg_low_pressed 0x7f020159
 int drawable notification_bg_normal 0x7f02015a
 int drawable notification_bg_normal_pressed 0x7f02015b
 int drawable notification_icon_background 0x7f02015c
-int drawable notification_template_icon_bg 0x7f020190
-int drawable notification_template_icon_low_bg 0x7f020191
+int drawable notification_template_icon_bg 0x7f020191
+int drawable notification_template_icon_low_bg 0x7f020192
 int drawable notification_tile_bg 0x7f02015d
 int drawable notify_panel_notification_icon_bg 0x7f02015e
 int drawable places_ic_clear 0x7f02015f
@@ -1079,6 +1079,7 @@ int drawable star32gray 0x7f02018c
 int drawable star32yellow 0x7f02018d
 int drawable wallpaper 0x7f02018e
 int drawable wallpaper2 0x7f02018f
+int drawable wallpaper3 0x7f020190
 int id action0 0x7f0e0138
 int id action_bar 0x7f0e0091
 int id action_bar_activity_content 0x7f0e0000
@@ -1499,6 +1500,7 @@ int layout support_simple_spinner_dropdown_item 0x7f040043
 int mipmap ic_launcher 0x7f030000
 int mipmap logo2 0x7f030001
 int mipmap logo3 0x7f030002
+int mipmap logotipo 0x7f030003
 int raw error 0x7f070000
 int raw gtm_analytics 0x7f070001
 int raw ok 0x7f070002
