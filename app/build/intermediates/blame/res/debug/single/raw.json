@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ok.mp3",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\raw\\ok.mp3"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/raw/error.mp3",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/raw/error.mp3"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\fc2aea74ff5e0e31d3f7786438e8ce4f0b28ea20\\output\\res\\raw\\gtm_analytics"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/douglimar/.android/build-cache/22ec3ad5bd32e0fdce774552fec4f30de4a6920c/output/res/raw/gtm_analytics"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\error.mp3",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\raw\\error.mp3"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/raw/ok.mp3",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/raw/ok.mp3"
     }
 ]

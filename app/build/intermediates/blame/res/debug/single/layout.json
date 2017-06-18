@@ -1,270 +1,274 @@
 [
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_free_time.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\layout\\activity_free_time.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/layout/cast_intro_overlay.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f370092fef73c32d207abf3af5215094048124d2\\output\\res\\layout\\cast_intro_overlay.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/layout/mr_controller_material_dialog_b.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_action.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_big_media.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\44a629f8ec08abb577e314e79419b713c7a498c0\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/douglimar/.android/build-cache/5882a4b7a68e1ba90f2789daa049244643c3b822/output/res/layout/place_autocomplete_progress.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/layout/mr_volume_control.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/layout/cast_mini_controller.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/douglimar/.android/build-cache/5882a4b7a68e1ba90f2789daa049244643c3b822/output/res/layout/place_autocomplete_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\fae87c79f4ad677c63936355524bb512fe4b51e3\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/layout/mr_chooser_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\fae87c79f4ad677c63936355524bb512fe4b51e3\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_table_game.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\layout\\activity_table_game.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/layout/cast_help_text.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_big_media_custom.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f370092fef73c32d207abf3af5215094048124d2\\output\\res\\layout\\cast_help_text.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/activity_result2.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/layout/activity_result2.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/activity_table_game.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/layout/activity_table_game.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\44a629f8ec08abb577e314e79419b713c7a498c0\\output\\res\\layout\\mr_chooser_dialog.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/layout/mr_chooser_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/douglimar/.android/build-cache/5882a4b7a68e1ba90f2789daa049244643c3b822/output/res/layout/place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f370092fef73c32d207abf3af5215094048124d2\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/activity_free_time.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/layout/activity_free_time.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\44a629f8ec08abb577e314e79419b713c7a498c0\\output\\res\\layout\\mr_chooser_list_item.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/layout/activity_main2.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\layout\\activity_main2.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\44a629f8ec08abb577e314e79419b713c7a498c0\\output\\res\\layout\\mr_playback_control.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\44a629f8ec08abb577e314e79419b713c7a498c0\\output\\res\\layout\\mr_controller_volume_item.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/activity_result.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/layout/activity_result.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\44a629f8ec08abb577e314e79419b713c7a498c0\\output\\res\\layout\\mr_volume_control.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/layout/mr_controller_volume_item.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blueprogressbar.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\layout\\blueprogressbar.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/layout/cast_expanded_controller_activity.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f370092fef73c32d207abf3af5215094048124d2\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/layout/mr_playback_control.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result2.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\layout\\activity_result2.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\layout\\activity_result.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/douglimar/.android/build-cache/5882a4b7a68e1ba90f2789daa049244643c3b822/output/res/layout/place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_media_action.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f370092fef73c32d207abf3af5215094048124d2\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\f370092fef73c32d207abf3af5215094048124d2\\output\\res\\layout\\cast_mini_controller.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\fae87c79f4ad677c63936355524bb512fe4b51e3\\output\\res\\layout\\place_autocomplete_progress.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/layout/activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\fae87c79f4ad677c63936355524bb512fe4b51e3\\output\\res\\layout\\place_autocomplete_fragment.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\dmoraes\\.android\\build-cache\\5f07c6c554fef138d4bf7fa6d005df18312923f2\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/blueprogressbar.xml",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/layout/blueprogressbar.xml"
     }
 ]

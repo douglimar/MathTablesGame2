@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "outputFile": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "C:\\Users\\dmoraes\\.android\\build-cache\\44a629f8ec08abb577e314e79419b713c7a498c0\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "file": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "C:\\Users\\dmoraes\\.android\\build-cache\\44a629f8ec08abb577e314e79419b713c7a498c0\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "file": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

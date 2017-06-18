@@ -29,16 +29,19 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name=".ResultActivity" />
-        <activity android:name=".TableGameActivity"/>
-        <activity android:name=".FreeTimeActivity"/>
-        <activity android:name=".MainActivity">
+        <activity android:name=".Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+        </activity>
+        <activity android:name=".ResultActivity" />
+        <activity android:name=".TableGameActivity"/>
+        <activity android:name=".FreeTimeActivity"/>
+        <activity android:name=".MainActivity"/>
+
+        <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
      App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
         <meta-data
             android:name="com.google.android.gms.version"

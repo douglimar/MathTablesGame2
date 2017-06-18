@@ -1,477 +1,481 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:2:1-51:12
 	package
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:3:5-48
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\230e47792dfe87d93901398e8e9ceec141ec09c7\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\dmoraes\.android\build-cache\fe3e2311891d4fcdd286bc0a935e1983b5f9e81e\output\AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\.android\build-cache\b1b1bfe72998e30c10a9bba7ce079df6cb473bde\output\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\295ed044419bcdabbdc11eeec28d71292b1e8100\output\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\1d83bf34186de47e3ce17ea86a5e35b1ab26a76f\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\a505647903fb793272be5f61e5af415f82ec00c4\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\.android\build-cache\a82de994006eebcb206b863d8c3263e168008ab5\output\AndroidManifest.xml:20:5-66
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/9b0791a1f287522de82306f2a49775500dd850f2/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/douglimar/.android/build-cache/0c498c59ff2ea08019e9208ec634435380795cb7/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/ccf354eea174bb58164a6593ea6e972e5256a72d/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/douglimar/.android/build-cache/5fea59b1f7b2e587cc10e65cce6e872ad3e2a477/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/811c7abfc790dfd77ca92b642e4a6e23da40a0f5/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/eedf6637a03000550b3c38ee5439a8f92ef89f4b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/7d17b61cf5ca77ecc5893c801893787a0dc51f46/output/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:6:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\230e47792dfe87d93901398e8e9ceec141ec09c7\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\dmoraes\.android\build-cache\818dd6a7cd301b05af35f92a79d1f4883b4047a6\output\AndroidManifest.xml:4:5-78
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\1d83bf34186de47e3ce17ea86a5e35b1ab26a76f\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\a505647903fb793272be5f61e5af415f82ec00c4\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\.android\build-cache\a82de994006eebcb206b863d8c3263e168008ab5\output\AndroidManifest.xml:19:5-78
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/9b0791a1f287522de82306f2a49775500dd850f2/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/douglimar/.android/build-cache/1a1c1b559433ff83411a5ac319b43d7d326a5716/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/811c7abfc790dfd77ca92b642e4a6e23da40a0f5/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/eedf6637a03000550b3c38ee5439a8f92ef89f4b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/7d17b61cf5ca77ecc5893c801893787a0dc51f46/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:8:5-68
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\230e47792dfe87d93901398e8e9ceec141ec09c7\output\AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\1d83bf34186de47e3ce17ea86a5e35b1ab26a76f\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\a505647903fb793272be5f61e5af415f82ec00c4\output\AndroidManifest.xml:24:5-67
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:8:5-68
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/9b0791a1f287522de82306f2a49775500dd850f2/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/811c7abfc790dfd77ca92b642e4a6e23da40a0f5/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/eedf6637a03000550b3c38ee5439a8f92ef89f4b/output/AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:8:22-65
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:8:22-65
 application
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:10:5-46:19
-MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\dmoraes\.android\build-cache\7c856934ff8fb95a11ae2a32d0c58475ab07e433\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\230e47792dfe87d93901398e8e9ceec141ec09c7\output\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\.android\build-cache\f370092fef73c32d207abf3af5215094048124d2\output\AndroidManifest.xml:4:5-8:19
-MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\dmoraes\.android\build-cache\54c1e91e974f5db8f7780923286f2244c0a1abde\output\AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\dmoraes\.android\build-cache\44a629f8ec08abb577e314e79419b713c7a498c0\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\dmoraes\.android\build-cache\157d77ba70d968d7a68ead819981c5bd7204d9fd\output\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dmoraes\.android\build-cache\5f07c6c554fef138d4bf7fa6d005df18312923f2\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\dmoraes\.android\build-cache\badc09cdcf3e6bafffdb45d0322bdb74137cb2b9\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\dmoraes\.android\build-cache\28587464cc2da9ff43d21a644c39929a2e8a4879\output\AndroidManifest.xml:23:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\dmoraes\.android\build-cache\15afa311baf3522d51ecbc741cb4f73d32e5f6d6\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\dmoraes\.android\build-cache\1b8aa7bca6373b884c6a9c297844b2d0a7ea0dac\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\dmoraes\.android\build-cache\11a939dff66ccf2267fff78d381ffbd6b8e393f9\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\dmoraes\.android\build-cache\fe3e2311891d4fcdd286bc0a935e1983b5f9e81e\output\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\810583dd90b98a13a974d99dc76d2bf413d2a9a5\output\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\.android\build-cache\93d65c6d719147d5bc8cdfc93d3470319b96109b\output\AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\dmoraes\.android\build-cache\1b7ab0ff69e2433fa5cdd20274c9718ad872d3c7\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\dmoraes\.android\build-cache\372b62051d2941b19c2e1148d778f0da08f0f2f2\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\dmoraes\.android\build-cache\d723aed6f157a148c32f8d27e6cce8762fd49069\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\dmoraes\.android\build-cache\a3bee42359becd245be3f89b9d95dbd8b842a691\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\.android\build-cache\b1b1bfe72998e30c10a9bba7ce079df6cb473bde\output\AndroidManifest.xml:23:5-19
-MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\dmoraes\.android\build-cache\2f1d7ed752659a72953b36f49abc0ba10dd4c223\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\295ed044419bcdabbdc11eeec28d71292b1e8100\output\AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\dmoraes\.android\build-cache\5e73ee46c70ef9b4a4ec658f70ea93862207a1b6\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\dmoraes\.android\build-cache\818dd6a7cd301b05af35f92a79d1f4883b4047a6\output\AndroidManifest.xml:5:5-19
-MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\dmoraes\.android\build-cache\b3419aaa3b30aeb81abf1951e87f2c0c8b9e9553\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\dmoraes\.android\build-cache\fae87c79f4ad677c63936355524bb512fe4b51e3\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\dmoraes\.android\build-cache\bcb5bf57dbc2957baf8c9a1f0992d9577aa7a258\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\dmoraes\.android\build-cache\63b3ae32f4f2a47ed58d65d65f3d0b3a3876dcb3\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:23:5-33:19
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\1d83bf34186de47e3ce17ea86a5e35b1ab26a76f\output\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:28:5-50:19
-MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\.android\build-cache\7e9b125ee595bf84493e6078b4aa45fedc23e1c8\output\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\fc2aea74ff5e0e31d3f7786438e8ce4f0b28ea20\output\AndroidManifest.xml:19:5-19
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\a505647903fb793272be5f61e5af415f82ec00c4\output\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\dmoraes\.android\build-cache\2a525073f131b7b132c201450d25e7d1d9e9634d\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\dmoraes\.android\build-cache\d5083c827e54f03b644ce305d477a2e3867d5ba9\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\.android\build-cache\a82de994006eebcb206b863d8c3263e168008ab5\output\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\dmoraes\.android\build-cache\00e0cad350a29266219d6760efb4de10c5a9e99e\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\.android\build-cache\74a39389f1c966d6cf5844ebbeab3d2f71de9da1\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\dmoraes\.android\build-cache\ce1e0e63fb2d55413b6ae6f520a95968e02f494a\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\dmoraes\.android\build-cache\6a14c493351325cf0bf4004dccccc6d372f4757f\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\dmoraes\.android\build-cache\1dd043526671dbd8abdf6593c3f55f8d07b0701b\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\dmoraes\.android\build-cache\2a6325d19f40482a23c6debf031443fc013649ce\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\dmoraes\.android\build-cache\9f2f926b4afb499d5864cae8212d9fea80c9f48b\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\dmoraes\.android\build-cache\ba1d4c209827905d6920078474c514d936eb41bf\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\dmoraes\.android\build-cache\fcc1894f436bc3147b504b1425e8f7dfd77200ff\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\dmoraes\.android\build-cache\01df0b78d333fbe7fb47c46a2f1edde224cd5c77\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\dmoraes\.android\build-cache\0537b6f517c3c773a15470e26df6adabb28b8af1\output\AndroidManifest.xml:25:5-20
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:10:5-49:19
+MERGED from [com.google.android.gms:play-services:10.0.1] /home/douglimar/.android/build-cache/f372a7b857f05c2cf303d18e089e7aea65faef82/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/9b0791a1f287522de82306f2a49775500dd850f2/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /home/douglimar/.android/build-cache/d0f82026c3f43903da70a76b4b0406d972765fda/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /home/douglimar/.android/build-cache/3c7dd545e3f0982f64a23eff03ec505b80f7d528/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/douglimar/.android/build-cache/fbe11a5240d14de5bf3202ded04f12a535b3078e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/douglimar/.android/build-cache/eedf94af6b0623ea0401b5c309a7424871576e91/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /home/douglimar/.android/build-cache/f3e5ab0c57296ae91e0a7ff3ba66845dddb8aa17/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] /home/douglimar/.android/build-cache/3826d81cc6f16aacd8f79695e627f50a363042e5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /home/douglimar/.android/build-cache/fe46390e5575a9276e29223fd0cea846691a6b39/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/douglimar/.android/build-cache/0c498c59ff2ea08019e9208ec634435380795cb7/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/douglimar/.android/build-cache/aa80fcbf4151de6e421436df02250afbafd0be2a/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/c2f2b03f4f76e60958d2a6d74701d620b0e60e4f/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/douglimar/.android/build-cache/dabed3909ee4fdc97cdb67cafddde7883b71be39/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /home/douglimar/.android/build-cache/5967aa866e3d7cd6e5ee921bc1419dec5675c0e6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /home/douglimar/.android/build-cache/7cbdbae80401a4389c47be8a77b890a4e887218b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /home/douglimar/.android/build-cache/d6285472aa737d521f0e0595e5066b670e37e739/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/ccf354eea174bb58164a6593ea6e972e5256a72d/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /home/douglimar/.android/build-cache/3a0fe5c648c7c18699d1b570e0652c5eab8ec6e2/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/douglimar/.android/build-cache/5fea59b1f7b2e587cc10e65cce6e872ad3e2a477/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/douglimar/.android/build-cache/cc44d4b1d5410ca8426f317058f8a74192369fe2/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/douglimar/.android/build-cache/1a1c1b559433ff83411a5ac319b43d7d326a5716/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /home/douglimar/.android/build-cache/7a46a3b046f258370fc388cda7695ff300c82042/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/douglimar/.android/build-cache/5882a4b7a68e1ba90f2789daa049244643c3b822/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/douglimar/.android/build-cache/9645b8f3a0509a8e8f1a8a833ec746944ae8c555/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /home/douglimar/.android/build-cache/78fe477adfdbcbf633eb766d25b2e35ae4dedd19/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/811c7abfc790dfd77ca92b642e4a6e23da40a0f5/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/c71629490804a632abb80f375e5a170d8c60d589/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/douglimar/.android/build-cache/22ec3ad5bd32e0fdce774552fec4f30de4a6920c/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/eedf6637a03000550b3c38ee5439a8f92ef89f4b/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/douglimar/.android/build-cache/ab3f2a48d63329a9af4909474b6f6568d5beb493/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /home/douglimar/.android/build-cache/cf2c355188dd1b14fba02557829ceda31d88ce09/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/7d17b61cf5ca77ecc5893c801893787a0dc51f46/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/douglimar/.android/build-cache/fcd1bb1f84cb4e72196711397b4033f6087591dc/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/92ad6834752684842542bd0b6cfc23577263aea1/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/douglimar/.android/build-cache/8e71c4becf47c4fb2e0155be57157e63d8c38f1a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/douglimar/.android/build-cache/3295a67709eb8f8be5f90bfbb306e5aec7e2ba36/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.0.1] /home/douglimar/.android/build-cache/a0758ec0393e9c6dc1b03455f3934c730c448673/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /home/douglimar/.android/build-cache/d2a7980a2a658c8c4d26618d74fac9553ab28113/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/douglimar/.android/build-cache/9f5614128be58b31cfa36d69e23250a57492a874/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/douglimar/.android/build-cache/be76a9e847b9cf7405a98c12f22e0bbfd65cf270/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] /home/douglimar/.android/build-cache/f57ed83c11cdcba815b5e54084826411243ee044/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/douglimar/.android/build-cache/a9518c6222b7a5746fcd87c404594233563c307b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /home/douglimar/.android/build-cache/8e07e711d1d874143f16e2bd9cd63a64f284baf1/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:14:9-41
 	android:supportsRtl
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:16:9-35
 	android:allowBackup
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:12:9-35
 	android:icon
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:13:9-40
 	android:theme
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:11:9-68
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:11:9-68
 service#br.com.ddmsoftware.mathtablesgame.NotificationIntentService
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:18:9-21:40
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:18:9-21:40
 	android:enabled
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:20:13-35
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:20:13-35
 	android:exported
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:19:13-54
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:19:13-54
 receiver#br.com.ddmsoftware.mathtablesgame.NotificationEventReceiver
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:23:9-63
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:23:9-63
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:23:19-60
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:23:19-60
 receiver#br.com.ddmsoftware.mathtablesgame.NotificationServiceStartReceiver
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:24:9-30:20
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:24:9-30:20
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:24:19-67
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:24:19-67
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:25:13-29:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:26:17-79
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:26:17-79
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:26:25-76
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:26:25-76
 action#android.intent.action.TIMEZONE_CHANGED
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:27:17-81
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:27:17-81
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:27:25-78
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:27:25-78
 action#android.intent.action.TIME_SET
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:28:17-73
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:28:17-73
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:28:25-70
-activity#br.com.ddmsoftware.mathtablesgame.ResultActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:32:9-52
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:28:25-70
+activity#br.com.ddmsoftware.mathtablesgame.Splash
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:32:9-38:20
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:32:19-49
-activity#br.com.ddmsoftware.mathtablesgame.TableGameActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:33:9-54
-	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:33:19-52
-activity#br.com.ddmsoftware.mathtablesgame.FreeTimeActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:34:9-53
-	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:34:19-51
-activity#br.com.ddmsoftware.mathtablesgame.MainActivity
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:35:9-41:20
-	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:35:19-47
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:32:19-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:36:13-40:29
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:36:27-74
+activity#br.com.ddmsoftware.mathtablesgame.ResultActivity
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:39:9-52
+	android:name
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:39:19-49
+activity#br.com.ddmsoftware.mathtablesgame.TableGameActivity
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:40:9-54
+	android:name
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:40:19-52
+activity#br.com.ddmsoftware.mathtablesgame.FreeTimeActivity
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:41:9-53
+	android:name
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:41:19-51
+activity#br.com.ddmsoftware.mathtablesgame.MainActivity
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:42:9-49
+	android:name
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:42:19-47
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:43:9-45:69
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\dmoraes\.android\build-cache\6a14c493351325cf0bf4004dccccc6d372f4757f\output\AndroidManifest.xml:20:9-121
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:46:9-48:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/douglimar/.android/build-cache/3295a67709eb8f8be5f90bfbb306e5aec7e2ba36/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:45:13-66
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:48:13-66
 	android:name
-		ADDED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml:44:13-58
+		ADDED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml:47:13-58
 uses-sdk
-INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\dmoraes\.android\build-cache\7c856934ff8fb95a11ae2a32d0c58475ab07e433\output\AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\dmoraes\.android\build-cache\399ed670f58f997f73757dce94318e959d4bccd8\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:22:5-42
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\230e47792dfe87d93901398e8e9ceec141ec09c7\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\dmoraes\.android\build-cache\9a8ccc3b44d857ef4c0e2045c4294b9eb6ee8a1e\output\AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\.android\build-cache\f370092fef73c32d207abf3af5215094048124d2\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\dmoraes\.android\build-cache\54c1e91e974f5db8f7780923286f2244c0a1abde\output\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\dmoraes\.android\build-cache\44a629f8ec08abb577e314e79419b713c7a498c0\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\dmoraes\.android\build-cache\157d77ba70d968d7a68ead819981c5bd7204d9fd\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dmoraes\.android\build-cache\5f07c6c554fef138d4bf7fa6d005df18312923f2\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\dmoraes\.android\build-cache\badc09cdcf3e6bafffdb45d0322bdb74137cb2b9\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\dmoraes\.android\build-cache\28587464cc2da9ff43d21a644c39929a2e8a4879\output\AndroidManifest.xml:21:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\dmoraes\.android\build-cache\15afa311baf3522d51ecbc741cb4f73d32e5f6d6\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\dmoraes\.android\build-cache\1b8aa7bca6373b884c6a9c297844b2d0a7ea0dac\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\dmoraes\.android\build-cache\11a939dff66ccf2267fff78d381ffbd6b8e393f9\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\dmoraes\.android\build-cache\fe3e2311891d4fcdd286bc0a935e1983b5f9e81e\output\AndroidManifest.xml:20:5-42
-MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\810583dd90b98a13a974d99dc76d2bf413d2a9a5\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\dmoraes\.android\build-cache\81bf2a5e189b968f55ca0d1f1bcfa992d32cf9a8\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\dmoraes\.android\build-cache\42586ae2c3ec3a7f55f05264f23ce5ac60073a55\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\.android\build-cache\93d65c6d719147d5bc8cdfc93d3470319b96109b\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\dmoraes\.android\build-cache\82536ea5cf9b9ed121cb95bf8a74306561cda06b\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\dmoraes\.android\build-cache\df5d5a90a28db7c8d2b907907b51514efb2228a0\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\dmoraes\.android\build-cache\1b7ab0ff69e2433fa5cdd20274c9718ad872d3c7\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\dmoraes\.android\build-cache\372b62051d2941b19c2e1148d778f0da08f0f2f2\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\dmoraes\.android\build-cache\d723aed6f157a148c32f8d27e6cce8762fd49069\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\dmoraes\.android\build-cache\a3bee42359becd245be3f89b9d95dbd8b842a691\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\.android\build-cache\b1b1bfe72998e30c10a9bba7ce079df6cb473bde\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\dmoraes\.android\build-cache\2f1d7ed752659a72953b36f49abc0ba10dd4c223\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\295ed044419bcdabbdc11eeec28d71292b1e8100\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\dmoraes\.android\build-cache\58742341fde7280eba7be1cb9f8148d01e900f40\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\dmoraes\.android\build-cache\5e73ee46c70ef9b4a4ec658f70ea93862207a1b6\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\dmoraes\.android\build-cache\818dd6a7cd301b05af35f92a79d1f4883b4047a6\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\dmoraes\.android\build-cache\b3419aaa3b30aeb81abf1951e87f2c0c8b9e9553\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\dmoraes\.android\build-cache\fae87c79f4ad677c63936355524bb512fe4b51e3\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\dmoraes\.android\build-cache\bcb5bf57dbc2957baf8c9a1f0992d9577aa7a258\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\dmoraes\.android\build-cache\63b3ae32f4f2a47ed58d65d65f3d0b3a3876dcb3\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\dmoraes\.android\build-cache\eeb79a95e0190761b6382448fa6bbb79dfb0b939\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\1d83bf34186de47e3ce17ea86a5e35b1ab26a76f\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\.android\build-cache\7e9b125ee595bf84493e6078b4aa45fedc23e1c8\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\fc2aea74ff5e0e31d3f7786438e8ce4f0b28ea20\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\a505647903fb793272be5f61e5af415f82ec00c4\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\dmoraes\.android\build-cache\2a525073f131b7b132c201450d25e7d1d9e9634d\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\dmoraes\.android\build-cache\b65f48f6af6ced517954ac9d2bdbd9e413e5c98c\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\dmoraes\.android\build-cache\d5083c827e54f03b644ce305d477a2e3867d5ba9\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\.android\build-cache\a82de994006eebcb206b863d8c3263e168008ab5\output\AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\dmoraes\.android\build-cache\00e0cad350a29266219d6760efb4de10c5a9e99e\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\.android\build-cache\74a39389f1c966d6cf5844ebbeab3d2f71de9da1\output\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\dmoraes\.android\build-cache\ce1e0e63fb2d55413b6ae6f520a95968e02f494a\output\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\dmoraes\.android\build-cache\6a14c493351325cf0bf4004dccccc6d372f4757f\output\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\dmoraes\.android\build-cache\1dd043526671dbd8abdf6593c3f55f8d07b0701b\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\dmoraes\.android\build-cache\2a6325d19f40482a23c6debf031443fc013649ce\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\dmoraes\.android\build-cache\9f2f926b4afb499d5864cae8212d9fea80c9f48b\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\dmoraes\.android\build-cache\ba1d4c209827905d6920078474c514d936eb41bf\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\dmoraes\.android\build-cache\fcc1894f436bc3147b504b1425e8f7dfd77200ff\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\dmoraes\.android\build-cache\c3084068499a6aa5255e22ef5bfb49f356f0cf4f\output\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\dmoraes\.android\build-cache\e8327a691791529fc21d1d587524c7c4e1c3fbe6\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\dmoraes\.android\build-cache\01df0b78d333fbe7fb47c46a2f1edde224cd5c77\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\dmoraes\.android\build-cache\0537b6f517c3c773a15470e26df6adabb28b8af1\output\AndroidManifest.xml:21:5-23:58
+INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/douglimar/.android/build-cache/d8cb651416cdaed287f7eecdfb42d392bd397573/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:10.0.1] /home/douglimar/.android/build-cache/f372a7b857f05c2cf303d18e089e7aea65faef82/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /home/douglimar/.android/build-cache/872b33ad2201a8d0e4736c169ba34e5a838177b4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/douglimar/.android/build-cache/9b0791a1f287522de82306f2a49775500dd850f2/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /home/douglimar/.android/build-cache/30f42dc9319538b02e0338ac5d1c3c487999ae62/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /home/douglimar/.android/build-cache/d0f82026c3f43903da70a76b4b0406d972765fda/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/douglimar/.android/build-cache/3c7dd545e3f0982f64a23eff03ec505b80f7d528/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/douglimar/.android/build-cache/fbe11a5240d14de5bf3202ded04f12a535b3078e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/douglimar/.android/build-cache/eedf94af6b0623ea0401b5c309a7424871576e91/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /home/douglimar/.android/build-cache/f3e5ab0c57296ae91e0a7ff3ba66845dddb8aa17/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] /home/douglimar/.android/build-cache/3826d81cc6f16aacd8f79695e627f50a363042e5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /home/douglimar/.android/build-cache/fe46390e5575a9276e29223fd0cea846691a6b39/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/douglimar/.android/build-cache/0c498c59ff2ea08019e9208ec634435380795cb7/output/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/douglimar/.android/build-cache/aa80fcbf4151de6e421436df02250afbafd0be2a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/douglimar/.android/build-cache/4541c97304a37ce29f659f458f55511a2747bcbb/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/douglimar/.android/build-cache/6609d6a3434df666cecdc06bf749cff20f9e7a4c/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/c2f2b03f4f76e60958d2a6d74701d620b0e60e4f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /home/douglimar/.android/build-cache/6490cdab512feff03f4a7bd0a13b924b92bdecf6/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /home/douglimar/.android/build-cache/a970675c04a375fda4f5ad3f9ada50f2707e6a73/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/douglimar/.android/build-cache/dabed3909ee4fdc97cdb67cafddde7883b71be39/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /home/douglimar/.android/build-cache/5967aa866e3d7cd6e5ee921bc1419dec5675c0e6/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /home/douglimar/.android/build-cache/7cbdbae80401a4389c47be8a77b890a4e887218b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /home/douglimar/.android/build-cache/d6285472aa737d521f0e0595e5066b670e37e739/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/ccf354eea174bb58164a6593ea6e972e5256a72d/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /home/douglimar/.android/build-cache/3a0fe5c648c7c18699d1b570e0652c5eab8ec6e2/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/douglimar/.android/build-cache/5fea59b1f7b2e587cc10e65cce6e872ad3e2a477/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] /home/douglimar/.android/build-cache/afc60ae3a3463aa4390c9d7633bbd1f5bdba0947/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/douglimar/.android/build-cache/cc44d4b1d5410ca8426f317058f8a74192369fe2/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/douglimar/.android/build-cache/1a1c1b559433ff83411a5ac319b43d7d326a5716/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /home/douglimar/.android/build-cache/7a46a3b046f258370fc388cda7695ff300c82042/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/douglimar/.android/build-cache/5882a4b7a68e1ba90f2789daa049244643c3b822/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/douglimar/.android/build-cache/9645b8f3a0509a8e8f1a8a833ec746944ae8c555/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /home/douglimar/.android/build-cache/78fe477adfdbcbf633eb766d25b2e35ae4dedd19/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] /home/douglimar/.android/build-cache/3ee53b938c7991e05f24ffd926951da9793aff03/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/811c7abfc790dfd77ca92b642e4a6e23da40a0f5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/c71629490804a632abb80f375e5a170d8c60d589/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/douglimar/.android/build-cache/22ec3ad5bd32e0fdce774552fec4f30de4a6920c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/eedf6637a03000550b3c38ee5439a8f92ef89f4b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/douglimar/.android/build-cache/ab3f2a48d63329a9af4909474b6f6568d5beb493/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] /home/douglimar/.android/build-cache/1a78a89d1153d100e6559604aa2da069a1ca6854/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /home/douglimar/.android/build-cache/cf2c355188dd1b14fba02557829ceda31d88ce09/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/7d17b61cf5ca77ecc5893c801893787a0dc51f46/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/douglimar/.android/build-cache/fcd1bb1f84cb4e72196711397b4033f6087591dc/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/92ad6834752684842542bd0b6cfc23577263aea1/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/douglimar/.android/build-cache/8e71c4becf47c4fb2e0155be57157e63d8c38f1a/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/douglimar/.android/build-cache/3295a67709eb8f8be5f90bfbb306e5aec7e2ba36/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.0.1] /home/douglimar/.android/build-cache/a0758ec0393e9c6dc1b03455f3934c730c448673/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /home/douglimar/.android/build-cache/d2a7980a2a658c8c4d26618d74fac9553ab28113/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/douglimar/.android/build-cache/9f5614128be58b31cfa36d69e23250a57492a874/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/douglimar/.android/build-cache/be76a9e847b9cf7405a98c12f22e0bbfd65cf270/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:cardview-v7:25.0.1] /home/douglimar/.android/build-cache/f57ed83c11cdcba815b5e54084826411243ee044/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] /home/douglimar/.android/build-cache/da64c974131e250b36b1af04b8d29630e278fb75/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/douglimar/.android/build-cache/a9518c6222b7a5746fcd87c404594233563c307b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] /home/douglimar/.android/build-cache/8e07e711d1d874143f16e2bd9cd63a64f284baf1/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\dmoraes\.android\build-cache\5f07c6c554fef138d4bf7fa6d005df18312923f2\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dmoraes\AndroidStudioProjects\MathTablesGame2\app\src\main\AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/AndroidManifest.xml
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:25:19-71
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\dmoraes\.android\build-cache\d0619ff3c144791d57c63f735611d2dfeb1a5c19\output\AndroidManifest.xml:26:19-91
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/douglimar/.android/build-cache/d396752c99445ef062b83e94841a0081e377ddfb/output/AndroidManifest.xml:26:19-91
 activity#com.google.android.gms.appinvite.PreviewActivity
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:20:9-25:20
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:20:9-25:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:20:51-74
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:20:51-74
 	android:theme
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:20:75-121
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:20:75-121
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:20:19-50
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:20:19-50
 intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:21:13-24:29
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:21:13-24:29
 action#com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:22:17-89
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:22:17-89
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:22:25-87
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:22:25-87
 category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:23:17-75
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:23:17-75
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\dmoraes\.android\build-cache\605ed414bdb880df197fb2c6c83e9e2e096de954\output\AndroidManifest.xml:23:27-73
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/douglimar/.android/build-cache/2d4dc2be54e313c37fc6f4937f4c75b2bf894b94/output/AndroidManifest.xml:23:27-73
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:20:9-189
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:20:9-189
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:20:129-162
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:20:129-162
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:20:163-187
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:20:163-187
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:20:69-128
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:20:69-128
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:20:19-68
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:20:19-68
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:24:9-184
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:24:9-184
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:24:64-87
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:24:64-87
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:24:88-182
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:24:88-182
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\dmoraes\.android\build-cache\55a32cd33460f23000c83d85fad84fe0b2fed21d\output\AndroidManifest.xml:24:18-63
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/douglimar/.android/build-cache/ca3f96b995577baa6d4e3f2bccb1b74444989ed2/output/AndroidManifest.xml:24:18-63
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\.android\build-cache\f370092fef73c32d207abf3af5215094048124d2\output\AndroidManifest.xml:5:9-99
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/AndroidManifest.xml:5:9-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\.android\build-cache\f370092fef73c32d207abf3af5215094048124d2\output\AndroidManifest.xml:5:19-97
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/AndroidManifest.xml:5:19-97
 service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\.android\build-cache\f370092fef73c32d207abf3af5215094048124d2\output\AndroidManifest.xml:6:9-103
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/AndroidManifest.xml:6:9-103
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\.android\build-cache\f370092fef73c32d207abf3af5215094048124d2\output\AndroidManifest.xml:6:18-101
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/AndroidManifest.xml:6:18-101
 service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\.android\build-cache\f370092fef73c32d207abf3af5215094048124d2\output\AndroidManifest.xml:7:9-92
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/AndroidManifest.xml:7:9-92
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\dmoraes\.android\build-cache\f370092fef73c32d207abf3af5215094048124d2\output\AndroidManifest.xml:7:18-90
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/AndroidManifest.xml:7:18-90
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\.android\build-cache\93d65c6d719147d5bc8cdfc93d3470319b96109b\output\AndroidManifest.xml:23:9-27:19
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/c2f2b03f4f76e60958d2a6d74701d620b0e60e4f/output/AndroidManifest.xml:23:9-27:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\.android\build-cache\93d65c6d719147d5bc8cdfc93d3470319b96109b\output\AndroidManifest.xml:23:88-111
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/c2f2b03f4f76e60958d2a6d74701d620b0e60e4f/output/AndroidManifest.xml:23:88-111
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\.android\build-cache\93d65c6d719147d5bc8cdfc93d3470319b96109b\output\AndroidManifest.xml:23:18-87
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/c2f2b03f4f76e60958d2a6d74701d620b0e60e4f/output/AndroidManifest.xml:23:18-87
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\.android\build-cache\93d65c6d719147d5bc8cdfc93d3470319b96109b\output\AndroidManifest.xml:24:13-26:29
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/c2f2b03f4f76e60958d2a6d74701d620b0e60e4f/output/AndroidManifest.xml:24:13-26:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\.android\build-cache\93d65c6d719147d5bc8cdfc93d3470319b96109b\output\AndroidManifest.xml:24:28-51
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/c2f2b03f4f76e60958d2a6d74701d620b0e60e4f/output/AndroidManifest.xml:24:28-51
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\.android\build-cache\93d65c6d719147d5bc8cdfc93d3470319b96109b\output\AndroidManifest.xml:25:17-77
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/c2f2b03f4f76e60958d2a6d74701d620b0e60e4f/output/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\dmoraes\.android\build-cache\93d65c6d719147d5bc8cdfc93d3470319b96109b\output\AndroidManifest.xml:25:25-75
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/douglimar/.android/build-cache/c2f2b03f4f76e60958d2a6d74701d620b0e60e4f/output/AndroidManifest.xml:25:25-75
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\.android\build-cache\b1b1bfe72998e30c10a9bba7ce079df6cb473bde\output\AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\295ed044419bcdabbdc11eeec28d71292b1e8100\output\AndroidManifest.xml:20:5-81
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:22:5-81
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/ccf354eea174bb58164a6593ea6e972e5256a72d/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/douglimar/.android/build-cache/5fea59b1f7b2e587cc10e65cce6e872ad3e2a477/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\dmoraes\.android\build-cache\b1b1bfe72998e30c10a9bba7ce079df6cb473bde\output\AndroidManifest.xml:20:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /home/douglimar/.android/build-cache/ccf354eea174bb58164a6593ea6e972e5256a72d/output/AndroidManifest.xml:20:22-79
 service#com.google.android.gms.tagmanager.TagManagerService
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:24:9-134
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:24:9-134
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:24:110-132
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:24:110-132
 	android:exported
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:24:85-109
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:24:85-109
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:24:18-84
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:24:18-84
 activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:25:9-32:20
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:25:9-32:20
 	android:noHistory
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:25:94-118
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:25:94-118
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:25:19-93
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:25:19-93
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:26:13-31:29
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:26:13-31:29
 data
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:27:17-71
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:27:17-71
 	android:scheme
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:27:23-69
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:27:23-69
 action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:28:17-68
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:28:25-66
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:28:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:30:17-77
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\dmoraes\.android\build-cache\ce9f7b139bb0b6832abd2e7a6d694bb45bf653e3\output\AndroidManifest.xml:30:27-75
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/douglimar/.android/build-cache/5a867cdeb2082ef4a8b7dc1467fcb2e108040d2f/output/AndroidManifest.xml:30:27-75
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\1d83bf34186de47e3ce17ea86a5e35b1ab26a76f\output\AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/811c7abfc790dfd77ca92b642e4a6e23da40a0f5/output/AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\dmoraes\.android\build-cache\1d83bf34186de47e3ce17ea86a5e35b1ab26a76f\output\AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/douglimar/.android/build-cache/811c7abfc790dfd77ca92b642e4a6e23da40a0f5/output/AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\dmoraes\.android\build-cache\ad446f8a35a7d978b7047c8f8bf2d0d03ef4bdc4\output\AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/douglimar/.android/build-cache/c742df9c7acb44ef62e9077dc4d66bd014654f6b/output/AndroidManifest.xml:32:16-87
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:30:9-36:20
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:30:9-36:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:31:13-35:29
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:31:13-35:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:32:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:33:17-85
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:33:17-85
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:33:25-83
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:33:25-83
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:34:17-60
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:34:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:34:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:34:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:40:9-119
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:40:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:40:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:40:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:40:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:40:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:44:9-48:19
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:44:9-48:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:44:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:44:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:44:18-82
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:44:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:45:13-47:29
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:45:13-47:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:45:28-51
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:45:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:46:17-79
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:46:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\dmoraes\.android\build-cache\ca9d653eeb6369c561ded0c42f40dff1602ff6ec\output\AndroidManifest.xml:46:25-77
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/douglimar/.android/build-cache/ee415ee91c58c50ab771d89686e9f0972bd26db9/output/AndroidManifest.xml:46:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\.android\build-cache\7e9b125ee595bf84493e6078b4aa45fedc23e1c8\output\AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/c71629490804a632abb80f375e5a170d8c60d589/output/AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\.android\build-cache\7e9b125ee595bf84493e6078b4aa45fedc23e1c8\output\AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/c71629490804a632abb80f375e5a170d8c60d589/output/AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\.android\build-cache\7e9b125ee595bf84493e6078b4aa45fedc23e1c8\output\AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/c71629490804a632abb80f375e5a170d8c60d589/output/AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\.android\build-cache\7e9b125ee595bf84493e6078b4aa45fedc23e1c8\output\AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/c71629490804a632abb80f375e5a170d8c60d589/output/AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\dmoraes\.android\build-cache\7e9b125ee595bf84493e6078b4aa45fedc23e1c8\output\AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/douglimar/.android/build-cache/c71629490804a632abb80f375e5a170d8c60d589/output/AndroidManifest.xml:6:79-143
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\.android\build-cache\a82de994006eebcb206b863d8c3263e168008ab5\output\AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/7d17b61cf5ca77ecc5893c801893787a0dc51f46/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\.android\build-cache\a82de994006eebcb206b863d8c3263e168008ab5\output\AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/7d17b61cf5ca77ecc5893c801893787a0dc51f46/output/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\dmoraes\.android\build-cache\a82de994006eebcb206b863d8c3263e168008ab5\output\AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/douglimar/.android/build-cache/7d17b61cf5ca77ecc5893c801893787a0dc51f46/output/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\.android\build-cache\74a39389f1c966d6cf5844ebbeab3d2f71de9da1\output\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/92ad6834752684842542bd0b6cfc23577263aea1/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\.android\build-cache\74a39389f1c966d6cf5844ebbeab3d2f71de9da1\output\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/92ad6834752684842542bd0b6cfc23577263aea1/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\.android\build-cache\74a39389f1c966d6cf5844ebbeab3d2f71de9da1\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/92ad6834752684842542bd0b6cfc23577263aea1/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\dmoraes\.android\build-cache\74a39389f1c966d6cf5844ebbeab3d2f71de9da1\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/douglimar/.android/build-cache/92ad6834752684842542bd0b6cfc23577263aea1/output/AndroidManifest.xml:19:19-85

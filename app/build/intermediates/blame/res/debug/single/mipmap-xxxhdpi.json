@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logo2.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo2.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/logo2.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/mipmap-xxxhdpi/logo2.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logo3.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo3.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/logo3.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/mipmap-xxxhdpi/logo3.png"
     },
     {
-        "merged": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logotipo.png",
-        "source": "C:\\Users\\dmoraes\\AndroidStudioProjects\\MathTablesGame2\\app\\src\\main\\res\\mipmap-xxxhdpi\\logotipo.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/logotipo.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/mipmap-xxxhdpi/logotipo.png"
     }
 ]
