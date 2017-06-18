@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_big_media.xml"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",

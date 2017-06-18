@@ -12,16 +12,16 @@
         "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_ic_notification_rewind.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/iconok.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/drawable/iconok.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/iconok.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/drawable/iconok.png"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
@@ -64,12 +64,12 @@
         "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
-        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_skip_ad_label_border.xml"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
         "source": "/home/douglimar/.android/build-cache/92ad6834752684842542bd0b6cfc23577263aea1/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_skip_ad_label_border.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
@@ -84,12 +84,12 @@
         "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable/abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/microphone72x72.png",
         "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/drawable/microphone72x72.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
@@ -124,36 +124,36 @@
         "source": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/drawable/mr_dialog_material_background_light.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
-        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_ic_mini_controller_pause.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_ic_expanded_controller_play.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
         "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_ic_notification_skip_next.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
-        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_ic_expanded_controller_play.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_ic_mini_controller_pause.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
         "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/backgroundnumbersv3.png",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/drawable/backgroundnumbersv3.png"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
-        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/backgroundnumbersv3.png",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/src/main/res/drawable/backgroundnumbersv3.png"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/home/douglimar/.android/build-cache/ae8aacb2c6f07aa7d43a0e435e5a6a4dce64ae4a/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable/cast_ic_expanded_controller_stop.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",

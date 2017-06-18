@@ -128,12 +128,12 @@
         "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable-xxxhdpi-v4/quantum_ic_pause_white_24.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_play_arrow_grey600_48.png",
-        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable-xxxhdpi-v4/quantum_ic_play_arrow_grey600_48.png"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_collapse_00007.png",
         "source": "/home/douglimar/.android/build-cache/dcec416bbb69721a949d1290777d4ce0f79a9d07/output/res/drawable-xxxhdpi-v4/ic_collapse_00007.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_play_arrow_grey600_48.png",
+        "source": "/home/douglimar/.android/build-cache/0cc24514e4d7848137b48dbf86f1f0df650b35e5/output/res/drawable-xxxhdpi-v4/quantum_ic_play_arrow_grey600_48.png"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/MathTablesGame2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_replay_30_white_36.png",
